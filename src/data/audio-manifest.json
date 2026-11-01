@@ -1,0 +1,4902 @@
+[
+  {
+    "verseId": "1.1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/1.mp3",
+    "chapter": 1,
+    "verse": 1,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/2.mp3",
+    "chapter": 1,
+    "verse": 2,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/3.mp3",
+    "chapter": 1,
+    "verse": 3,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/4.mp3",
+    "chapter": 1,
+    "verse": 4,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/5.mp3",
+    "chapter": 1,
+    "verse": 5,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/6.mp3",
+    "chapter": 1,
+    "verse": 6,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/7.mp3",
+    "chapter": 1,
+    "verse": 7,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/8.mp3",
+    "chapter": 1,
+    "verse": 8,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/9.mp3",
+    "chapter": 1,
+    "verse": 9,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/10.mp3",
+    "chapter": 1,
+    "verse": 10,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/11.mp3",
+    "chapter": 1,
+    "verse": 11,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/12.mp3",
+    "chapter": 1,
+    "verse": 12,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/13.mp3",
+    "chapter": 1,
+    "verse": 13,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/14.mp3",
+    "chapter": 1,
+    "verse": 14,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/15.mp3",
+    "chapter": 1,
+    "verse": 15,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/16.mp3",
+    "chapter": 1,
+    "verse": 16,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/17.mp3",
+    "chapter": 1,
+    "verse": 17,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/18.mp3",
+    "chapter": 1,
+    "verse": 18,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/19.mp3",
+    "chapter": 1,
+    "verse": 19,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/20.mp3",
+    "chapter": 1,
+    "verse": 20,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.21",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/21.mp3",
+    "chapter": 1,
+    "verse": 21,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.22",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/22.mp3",
+    "chapter": 1,
+    "verse": 22,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.23",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/23.mp3",
+    "chapter": 1,
+    "verse": 23,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.24",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/24.mp3",
+    "chapter": 1,
+    "verse": 24,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.25",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/25.mp3",
+    "chapter": 1,
+    "verse": 25,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.26",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/26.mp3",
+    "chapter": 1,
+    "verse": 26,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.27",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/27.mp3",
+    "chapter": 1,
+    "verse": 27,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.28",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/28.mp3",
+    "chapter": 1,
+    "verse": 28,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.29",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/29.mp3",
+    "chapter": 1,
+    "verse": 29,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.30",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/30.mp3",
+    "chapter": 1,
+    "verse": 30,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.31",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/31.mp3",
+    "chapter": 1,
+    "verse": 31,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.32",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/32.mp3",
+    "chapter": 1,
+    "verse": 32,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.33",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/33.mp3",
+    "chapter": 1,
+    "verse": 33,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.34",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/34.mp3",
+    "chapter": 1,
+    "verse": 34,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.35",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/35.mp3",
+    "chapter": 1,
+    "verse": 35,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.36",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/36.mp3",
+    "chapter": 1,
+    "verse": 36,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.37",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/37.mp3",
+    "chapter": 1,
+    "verse": 37,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.38",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/38.mp3",
+    "chapter": 1,
+    "verse": 38,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.39",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/39.mp3",
+    "chapter": 1,
+    "verse": 39,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.40",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/40.mp3",
+    "chapter": 1,
+    "verse": 40,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.41",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/41.mp3",
+    "chapter": 1,
+    "verse": 41,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.42",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/42.mp3",
+    "chapter": 1,
+    "verse": 42,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.43",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/43.mp3",
+    "chapter": 1,
+    "verse": 43,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.44",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/44.mp3",
+    "chapter": 1,
+    "verse": 44,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.45",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/45.mp3",
+    "chapter": 1,
+    "verse": 45,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.46",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/46.mp3",
+    "chapter": 1,
+    "verse": 46,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "1.47",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/1/47.mp3",
+    "chapter": 1,
+    "verse": 47,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/1.mp3",
+    "chapter": 2,
+    "verse": 1,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/2.mp3",
+    "chapter": 2,
+    "verse": 2,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/3.mp3",
+    "chapter": 2,
+    "verse": 3,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/4.mp3",
+    "chapter": 2,
+    "verse": 4,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/5.mp3",
+    "chapter": 2,
+    "verse": 5,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/6.mp3",
+    "chapter": 2,
+    "verse": 6,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/7.mp3",
+    "chapter": 2,
+    "verse": 7,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/8.mp3",
+    "chapter": 2,
+    "verse": 8,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/9.mp3",
+    "chapter": 2,
+    "verse": 9,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/10.mp3",
+    "chapter": 2,
+    "verse": 10,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/11.mp3",
+    "chapter": 2,
+    "verse": 11,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/12.mp3",
+    "chapter": 2,
+    "verse": 12,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/13.mp3",
+    "chapter": 2,
+    "verse": 13,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/14.mp3",
+    "chapter": 2,
+    "verse": 14,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/15.mp3",
+    "chapter": 2,
+    "verse": 15,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/16.mp3",
+    "chapter": 2,
+    "verse": 16,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/17.mp3",
+    "chapter": 2,
+    "verse": 17,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/18.mp3",
+    "chapter": 2,
+    "verse": 18,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/19.mp3",
+    "chapter": 2,
+    "verse": 19,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/20.mp3",
+    "chapter": 2,
+    "verse": 20,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.21",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/21.mp3",
+    "chapter": 2,
+    "verse": 21,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.22",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/22.mp3",
+    "chapter": 2,
+    "verse": 22,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.23",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/23.mp3",
+    "chapter": 2,
+    "verse": 23,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.24",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/24.mp3",
+    "chapter": 2,
+    "verse": 24,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.25",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/25.mp3",
+    "chapter": 2,
+    "verse": 25,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.26",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/26.mp3",
+    "chapter": 2,
+    "verse": 26,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.27",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/27.mp3",
+    "chapter": 2,
+    "verse": 27,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.28",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/28.mp3",
+    "chapter": 2,
+    "verse": 28,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.29",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/29.mp3",
+    "chapter": 2,
+    "verse": 29,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.30",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/30.mp3",
+    "chapter": 2,
+    "verse": 30,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.31",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/31.mp3",
+    "chapter": 2,
+    "verse": 31,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.32",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/32.mp3",
+    "chapter": 2,
+    "verse": 32,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.33",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/33.mp3",
+    "chapter": 2,
+    "verse": 33,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.34",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/34.mp3",
+    "chapter": 2,
+    "verse": 34,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.35",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/35.mp3",
+    "chapter": 2,
+    "verse": 35,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.36",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/36.mp3",
+    "chapter": 2,
+    "verse": 36,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.37",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/37.mp3",
+    "chapter": 2,
+    "verse": 37,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.38",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/38.mp3",
+    "chapter": 2,
+    "verse": 38,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.39",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/39.mp3",
+    "chapter": 2,
+    "verse": 39,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.40",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/40.mp3",
+    "chapter": 2,
+    "verse": 40,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.41",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/41.mp3",
+    "chapter": 2,
+    "verse": 41,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.42",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/42.mp3",
+    "chapter": 2,
+    "verse": 42,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.43",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/43.mp3",
+    "chapter": 2,
+    "verse": 43,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.44",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/44.mp3",
+    "chapter": 2,
+    "verse": 44,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.45",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/45.mp3",
+    "chapter": 2,
+    "verse": 45,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.46",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/46.mp3",
+    "chapter": 2,
+    "verse": 46,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.47",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/47.mp3",
+    "chapter": 2,
+    "verse": 47,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.48",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/48.mp3",
+    "chapter": 2,
+    "verse": 48,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.49",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/49.mp3",
+    "chapter": 2,
+    "verse": 49,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.50",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/50.mp3",
+    "chapter": 2,
+    "verse": 50,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.51",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/51.mp3",
+    "chapter": 2,
+    "verse": 51,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.52",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/52.mp3",
+    "chapter": 2,
+    "verse": 52,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.53",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/53.mp3",
+    "chapter": 2,
+    "verse": 53,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.54",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/54.mp3",
+    "chapter": 2,
+    "verse": 54,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.55",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/55.mp3",
+    "chapter": 2,
+    "verse": 55,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.56",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/56.mp3",
+    "chapter": 2,
+    "verse": 56,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.57",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/57.mp3",
+    "chapter": 2,
+    "verse": 57,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.58",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/58.mp3",
+    "chapter": 2,
+    "verse": 58,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.59",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/59.mp3",
+    "chapter": 2,
+    "verse": 59,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.60",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/60.mp3",
+    "chapter": 2,
+    "verse": 60,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.61",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/61.mp3",
+    "chapter": 2,
+    "verse": 61,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.62",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/62.mp3",
+    "chapter": 2,
+    "verse": 62,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.63",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/63.mp3",
+    "chapter": 2,
+    "verse": 63,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.64",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/64.mp3",
+    "chapter": 2,
+    "verse": 64,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.65",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/65.mp3",
+    "chapter": 2,
+    "verse": 65,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.66",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/66.mp3",
+    "chapter": 2,
+    "verse": 66,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.67",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/67.mp3",
+    "chapter": 2,
+    "verse": 67,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.68",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/68.mp3",
+    "chapter": 2,
+    "verse": 68,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.69",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/69.mp3",
+    "chapter": 2,
+    "verse": 69,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.70",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/70.mp3",
+    "chapter": 2,
+    "verse": 70,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.71",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/71.mp3",
+    "chapter": 2,
+    "verse": 71,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "2.72",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/2/72.mp3",
+    "chapter": 2,
+    "verse": 72,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/1.mp3",
+    "chapter": 3,
+    "verse": 1,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/2.mp3",
+    "chapter": 3,
+    "verse": 2,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/3.mp3",
+    "chapter": 3,
+    "verse": 3,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/4.mp3",
+    "chapter": 3,
+    "verse": 4,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/5.mp3",
+    "chapter": 3,
+    "verse": 5,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/6.mp3",
+    "chapter": 3,
+    "verse": 6,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/7.mp3",
+    "chapter": 3,
+    "verse": 7,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/8.mp3",
+    "chapter": 3,
+    "verse": 8,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/9.mp3",
+    "chapter": 3,
+    "verse": 9,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/10.mp3",
+    "chapter": 3,
+    "verse": 10,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/11.mp3",
+    "chapter": 3,
+    "verse": 11,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/12.mp3",
+    "chapter": 3,
+    "verse": 12,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/13.mp3",
+    "chapter": 3,
+    "verse": 13,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/14.mp3",
+    "chapter": 3,
+    "verse": 14,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/15.mp3",
+    "chapter": 3,
+    "verse": 15,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/16.mp3",
+    "chapter": 3,
+    "verse": 16,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/17.mp3",
+    "chapter": 3,
+    "verse": 17,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/18.mp3",
+    "chapter": 3,
+    "verse": 18,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/19.mp3",
+    "chapter": 3,
+    "verse": 19,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/20.mp3",
+    "chapter": 3,
+    "verse": 20,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.21",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/21.mp3",
+    "chapter": 3,
+    "verse": 21,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.22",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/22.mp3",
+    "chapter": 3,
+    "verse": 22,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.23",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/23.mp3",
+    "chapter": 3,
+    "verse": 23,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.24",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/24.mp3",
+    "chapter": 3,
+    "verse": 24,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.25",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/25.mp3",
+    "chapter": 3,
+    "verse": 25,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.26",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/26.mp3",
+    "chapter": 3,
+    "verse": 26,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.27",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/27.mp3",
+    "chapter": 3,
+    "verse": 27,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.28",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/28.mp3",
+    "chapter": 3,
+    "verse": 28,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.29",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/29.mp3",
+    "chapter": 3,
+    "verse": 29,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.30",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/30.mp3",
+    "chapter": 3,
+    "verse": 30,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.31",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/31.mp3",
+    "chapter": 3,
+    "verse": 31,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.32",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/32.mp3",
+    "chapter": 3,
+    "verse": 32,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.33",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/33.mp3",
+    "chapter": 3,
+    "verse": 33,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.34",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/34.mp3",
+    "chapter": 3,
+    "verse": 34,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.35",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/35.mp3",
+    "chapter": 3,
+    "verse": 35,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.36",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/36.mp3",
+    "chapter": 3,
+    "verse": 36,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.37",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/37.mp3",
+    "chapter": 3,
+    "verse": 37,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.38",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/38.mp3",
+    "chapter": 3,
+    "verse": 38,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.39",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/39.mp3",
+    "chapter": 3,
+    "verse": 39,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.40",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/40.mp3",
+    "chapter": 3,
+    "verse": 40,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.41",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/41.mp3",
+    "chapter": 3,
+    "verse": 41,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.42",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/42.mp3",
+    "chapter": 3,
+    "verse": 42,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "3.43",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/3/43.mp3",
+    "chapter": 3,
+    "verse": 43,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/1.mp3",
+    "chapter": 4,
+    "verse": 1,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/2.mp3",
+    "chapter": 4,
+    "verse": 2,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/3.mp3",
+    "chapter": 4,
+    "verse": 3,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/4.mp3",
+    "chapter": 4,
+    "verse": 4,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/5.mp3",
+    "chapter": 4,
+    "verse": 5,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/6.mp3",
+    "chapter": 4,
+    "verse": 6,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/7.mp3",
+    "chapter": 4,
+    "verse": 7,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/8.mp3",
+    "chapter": 4,
+    "verse": 8,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/9.mp3",
+    "chapter": 4,
+    "verse": 9,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/10.mp3",
+    "chapter": 4,
+    "verse": 10,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/11.mp3",
+    "chapter": 4,
+    "verse": 11,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/12.mp3",
+    "chapter": 4,
+    "verse": 12,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/13.mp3",
+    "chapter": 4,
+    "verse": 13,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/14.mp3",
+    "chapter": 4,
+    "verse": 14,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/15.mp3",
+    "chapter": 4,
+    "verse": 15,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/16.mp3",
+    "chapter": 4,
+    "verse": 16,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/17.mp3",
+    "chapter": 4,
+    "verse": 17,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/18.mp3",
+    "chapter": 4,
+    "verse": 18,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/19.mp3",
+    "chapter": 4,
+    "verse": 19,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/20.mp3",
+    "chapter": 4,
+    "verse": 20,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.21",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/21.mp3",
+    "chapter": 4,
+    "verse": 21,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.22",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/22.mp3",
+    "chapter": 4,
+    "verse": 22,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.23",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/23.mp3",
+    "chapter": 4,
+    "verse": 23,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.24",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/24.mp3",
+    "chapter": 4,
+    "verse": 24,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.25",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/25.mp3",
+    "chapter": 4,
+    "verse": 25,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.26",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/26.mp3",
+    "chapter": 4,
+    "verse": 26,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.27",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/27.mp3",
+    "chapter": 4,
+    "verse": 27,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.28",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/28.mp3",
+    "chapter": 4,
+    "verse": 28,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.29",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/29.mp3",
+    "chapter": 4,
+    "verse": 29,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.30",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/30.mp3",
+    "chapter": 4,
+    "verse": 30,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.31",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/31.mp3",
+    "chapter": 4,
+    "verse": 31,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.32",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/32.mp3",
+    "chapter": 4,
+    "verse": 32,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.33",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/33.mp3",
+    "chapter": 4,
+    "verse": 33,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.34",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/34.mp3",
+    "chapter": 4,
+    "verse": 34,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.35",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/35.mp3",
+    "chapter": 4,
+    "verse": 35,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.36",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/36.mp3",
+    "chapter": 4,
+    "verse": 36,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.37",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/37.mp3",
+    "chapter": 4,
+    "verse": 37,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.38",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/38.mp3",
+    "chapter": 4,
+    "verse": 38,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.39",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/39.mp3",
+    "chapter": 4,
+    "verse": 39,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.40",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/40.mp3",
+    "chapter": 4,
+    "verse": 40,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.41",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/41.mp3",
+    "chapter": 4,
+    "verse": 41,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "4.42",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/4/42.mp3",
+    "chapter": 4,
+    "verse": 42,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/1.mp3",
+    "chapter": 5,
+    "verse": 1,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/2.mp3",
+    "chapter": 5,
+    "verse": 2,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/3.mp3",
+    "chapter": 5,
+    "verse": 3,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/4.mp3",
+    "chapter": 5,
+    "verse": 4,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/5.mp3",
+    "chapter": 5,
+    "verse": 5,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/6.mp3",
+    "chapter": 5,
+    "verse": 6,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/7.mp3",
+    "chapter": 5,
+    "verse": 7,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/8.mp3",
+    "chapter": 5,
+    "verse": 8,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/9.mp3",
+    "chapter": 5,
+    "verse": 9,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/10.mp3",
+    "chapter": 5,
+    "verse": 10,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/11.mp3",
+    "chapter": 5,
+    "verse": 11,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/12.mp3",
+    "chapter": 5,
+    "verse": 12,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/13.mp3",
+    "chapter": 5,
+    "verse": 13,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/14.mp3",
+    "chapter": 5,
+    "verse": 14,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/15.mp3",
+    "chapter": 5,
+    "verse": 15,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/16.mp3",
+    "chapter": 5,
+    "verse": 16,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/17.mp3",
+    "chapter": 5,
+    "verse": 17,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/18.mp3",
+    "chapter": 5,
+    "verse": 18,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/19.mp3",
+    "chapter": 5,
+    "verse": 19,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/20.mp3",
+    "chapter": 5,
+    "verse": 20,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.21",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/21.mp3",
+    "chapter": 5,
+    "verse": 21,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.22",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/22.mp3",
+    "chapter": 5,
+    "verse": 22,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.23",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/23.mp3",
+    "chapter": 5,
+    "verse": 23,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.24",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/24.mp3",
+    "chapter": 5,
+    "verse": 24,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.25",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/25.mp3",
+    "chapter": 5,
+    "verse": 25,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.26",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/26.mp3",
+    "chapter": 5,
+    "verse": 26,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.27",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/27.mp3",
+    "chapter": 5,
+    "verse": 27,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.28",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/28.mp3",
+    "chapter": 5,
+    "verse": 28,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "5.29",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/5/29.mp3",
+    "chapter": 5,
+    "verse": 29,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/1.mp3",
+    "chapter": 6,
+    "verse": 1,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/2.mp3",
+    "chapter": 6,
+    "verse": 2,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/3.mp3",
+    "chapter": 6,
+    "verse": 3,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/4.mp3",
+    "chapter": 6,
+    "verse": 4,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/5.mp3",
+    "chapter": 6,
+    "verse": 5,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/6.mp3",
+    "chapter": 6,
+    "verse": 6,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/7.mp3",
+    "chapter": 6,
+    "verse": 7,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/8.mp3",
+    "chapter": 6,
+    "verse": 8,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/9.mp3",
+    "chapter": 6,
+    "verse": 9,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/10.mp3",
+    "chapter": 6,
+    "verse": 10,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/11.mp3",
+    "chapter": 6,
+    "verse": 11,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/12.mp3",
+    "chapter": 6,
+    "verse": 12,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/13.mp3",
+    "chapter": 6,
+    "verse": 13,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/14.mp3",
+    "chapter": 6,
+    "verse": 14,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/15.mp3",
+    "chapter": 6,
+    "verse": 15,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/16.mp3",
+    "chapter": 6,
+    "verse": 16,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/17.mp3",
+    "chapter": 6,
+    "verse": 17,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/18.mp3",
+    "chapter": 6,
+    "verse": 18,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/19.mp3",
+    "chapter": 6,
+    "verse": 19,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/20.mp3",
+    "chapter": 6,
+    "verse": 20,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.21",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/21.mp3",
+    "chapter": 6,
+    "verse": 21,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.22",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/22.mp3",
+    "chapter": 6,
+    "verse": 22,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.23",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/23.mp3",
+    "chapter": 6,
+    "verse": 23,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.24",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/24.mp3",
+    "chapter": 6,
+    "verse": 24,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.25",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/25.mp3",
+    "chapter": 6,
+    "verse": 25,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.26",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/26.mp3",
+    "chapter": 6,
+    "verse": 26,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.27",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/27.mp3",
+    "chapter": 6,
+    "verse": 27,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.28",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/28.mp3",
+    "chapter": 6,
+    "verse": 28,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.29",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/29.mp3",
+    "chapter": 6,
+    "verse": 29,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.30",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/30.mp3",
+    "chapter": 6,
+    "verse": 30,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.31",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/31.mp3",
+    "chapter": 6,
+    "verse": 31,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.32",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/32.mp3",
+    "chapter": 6,
+    "verse": 32,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.33",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/33.mp3",
+    "chapter": 6,
+    "verse": 33,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.34",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/34.mp3",
+    "chapter": 6,
+    "verse": 34,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.35",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/35.mp3",
+    "chapter": 6,
+    "verse": 35,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.36",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/36.mp3",
+    "chapter": 6,
+    "verse": 36,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.37",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/37.mp3",
+    "chapter": 6,
+    "verse": 37,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.38",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/38.mp3",
+    "chapter": 6,
+    "verse": 38,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.39",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/39.mp3",
+    "chapter": 6,
+    "verse": 39,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.40",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/40.mp3",
+    "chapter": 6,
+    "verse": 40,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.41",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/41.mp3",
+    "chapter": 6,
+    "verse": 41,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.42",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/42.mp3",
+    "chapter": 6,
+    "verse": 42,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.43",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/43.mp3",
+    "chapter": 6,
+    "verse": 43,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.44",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/44.mp3",
+    "chapter": 6,
+    "verse": 44,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.45",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/45.mp3",
+    "chapter": 6,
+    "verse": 45,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.46",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/46.mp3",
+    "chapter": 6,
+    "verse": 46,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "6.47",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/6/47.mp3",
+    "chapter": 6,
+    "verse": 47,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/1.mp3",
+    "chapter": 7,
+    "verse": 1,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/2.mp3",
+    "chapter": 7,
+    "verse": 2,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/3.mp3",
+    "chapter": 7,
+    "verse": 3,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/4.mp3",
+    "chapter": 7,
+    "verse": 4,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/5.mp3",
+    "chapter": 7,
+    "verse": 5,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/6.mp3",
+    "chapter": 7,
+    "verse": 6,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/7.mp3",
+    "chapter": 7,
+    "verse": 7,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/8.mp3",
+    "chapter": 7,
+    "verse": 8,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/9.mp3",
+    "chapter": 7,
+    "verse": 9,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/10.mp3",
+    "chapter": 7,
+    "verse": 10,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/11.mp3",
+    "chapter": 7,
+    "verse": 11,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/12.mp3",
+    "chapter": 7,
+    "verse": 12,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/13.mp3",
+    "chapter": 7,
+    "verse": 13,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/14.mp3",
+    "chapter": 7,
+    "verse": 14,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/15.mp3",
+    "chapter": 7,
+    "verse": 15,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/16.mp3",
+    "chapter": 7,
+    "verse": 16,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/17.mp3",
+    "chapter": 7,
+    "verse": 17,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/18.mp3",
+    "chapter": 7,
+    "verse": 18,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/19.mp3",
+    "chapter": 7,
+    "verse": 19,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/20.mp3",
+    "chapter": 7,
+    "verse": 20,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.21",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/21.mp3",
+    "chapter": 7,
+    "verse": 21,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.22",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/22.mp3",
+    "chapter": 7,
+    "verse": 22,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.23",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/23.mp3",
+    "chapter": 7,
+    "verse": 23,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.24",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/24.mp3",
+    "chapter": 7,
+    "verse": 24,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.25",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/25.mp3",
+    "chapter": 7,
+    "verse": 25,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.26",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/26.mp3",
+    "chapter": 7,
+    "verse": 26,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.27",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/27.mp3",
+    "chapter": 7,
+    "verse": 27,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.28",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/28.mp3",
+    "chapter": 7,
+    "verse": 28,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.29",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/29.mp3",
+    "chapter": 7,
+    "verse": 29,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "7.30",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/30.mp3",
+    "chapter": 7,
+    "verse": 30,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/1.mp3",
+    "chapter": 8,
+    "verse": 1,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/2.mp3",
+    "chapter": 8,
+    "verse": 2,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/3.mp3",
+    "chapter": 8,
+    "verse": 3,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/4.mp3",
+    "chapter": 8,
+    "verse": 4,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/5.mp3",
+    "chapter": 8,
+    "verse": 5,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/6.mp3",
+    "chapter": 8,
+    "verse": 6,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/7.mp3",
+    "chapter": 8,
+    "verse": 7,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/8.mp3",
+    "chapter": 8,
+    "verse": 8,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/9.mp3",
+    "chapter": 8,
+    "verse": 9,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/10.mp3",
+    "chapter": 8,
+    "verse": 10,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/11.mp3",
+    "chapter": 8,
+    "verse": 11,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/12.mp3",
+    "chapter": 8,
+    "verse": 12,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/13.mp3",
+    "chapter": 8,
+    "verse": 13,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/14.mp3",
+    "chapter": 8,
+    "verse": 14,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/15.mp3",
+    "chapter": 8,
+    "verse": 15,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/16.mp3",
+    "chapter": 8,
+    "verse": 16,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/17.mp3",
+    "chapter": 8,
+    "verse": 17,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/18.mp3",
+    "chapter": 8,
+    "verse": 18,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/19.mp3",
+    "chapter": 8,
+    "verse": 19,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/20.mp3",
+    "chapter": 8,
+    "verse": 20,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.21",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/21.mp3",
+    "chapter": 8,
+    "verse": 21,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.22",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/22.mp3",
+    "chapter": 8,
+    "verse": 22,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.23",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/23.mp3",
+    "chapter": 8,
+    "verse": 23,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.24",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/24.mp3",
+    "chapter": 8,
+    "verse": 24,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.25",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/25.mp3",
+    "chapter": 8,
+    "verse": 25,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.26",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/26.mp3",
+    "chapter": 8,
+    "verse": 26,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.27",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/27.mp3",
+    "chapter": 8,
+    "verse": 27,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "8.28",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/8/28.mp3",
+    "chapter": 8,
+    "verse": 28,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/1.mp3",
+    "chapter": 9,
+    "verse": 1,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/2.mp3",
+    "chapter": 9,
+    "verse": 2,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/3.mp3",
+    "chapter": 9,
+    "verse": 3,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/4.mp3",
+    "chapter": 9,
+    "verse": 4,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/5.mp3",
+    "chapter": 9,
+    "verse": 5,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/6.mp3",
+    "chapter": 9,
+    "verse": 6,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/7.mp3",
+    "chapter": 9,
+    "verse": 7,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/8.mp3",
+    "chapter": 9,
+    "verse": 8,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/9.mp3",
+    "chapter": 9,
+    "verse": 9,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/10.mp3",
+    "chapter": 9,
+    "verse": 10,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/11.mp3",
+    "chapter": 9,
+    "verse": 11,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/12.mp3",
+    "chapter": 9,
+    "verse": 12,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/13.mp3",
+    "chapter": 9,
+    "verse": 13,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/14.mp3",
+    "chapter": 9,
+    "verse": 14,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/15.mp3",
+    "chapter": 9,
+    "verse": 15,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/16.mp3",
+    "chapter": 9,
+    "verse": 16,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/17.mp3",
+    "chapter": 9,
+    "verse": 17,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/18.mp3",
+    "chapter": 9,
+    "verse": 18,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/19.mp3",
+    "chapter": 9,
+    "verse": 19,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/20.mp3",
+    "chapter": 9,
+    "verse": 20,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.21",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/21.mp3",
+    "chapter": 9,
+    "verse": 21,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.22",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/22.mp3",
+    "chapter": 9,
+    "verse": 22,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.23",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/23.mp3",
+    "chapter": 9,
+    "verse": 23,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.24",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/24.mp3",
+    "chapter": 9,
+    "verse": 24,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.25",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/25.mp3",
+    "chapter": 9,
+    "verse": 25,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.26",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/26.mp3",
+    "chapter": 9,
+    "verse": 26,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.27",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/27.mp3",
+    "chapter": 9,
+    "verse": 27,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.28",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/28.mp3",
+    "chapter": 9,
+    "verse": 28,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.29",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/29.mp3",
+    "chapter": 9,
+    "verse": 29,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.30",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/30.mp3",
+    "chapter": 9,
+    "verse": 30,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.31",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/31.mp3",
+    "chapter": 9,
+    "verse": 31,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.32",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/32.mp3",
+    "chapter": 9,
+    "verse": 32,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.33",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/33.mp3",
+    "chapter": 9,
+    "verse": 33,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "9.34",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/9/34.mp3",
+    "chapter": 9,
+    "verse": 34,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/1.mp3",
+    "chapter": 10,
+    "verse": 1,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/2.mp3",
+    "chapter": 10,
+    "verse": 2,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/3.mp3",
+    "chapter": 10,
+    "verse": 3,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/4.mp3",
+    "chapter": 10,
+    "verse": 4,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/5.mp3",
+    "chapter": 10,
+    "verse": 5,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/6.mp3",
+    "chapter": 10,
+    "verse": 6,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/7.mp3",
+    "chapter": 10,
+    "verse": 7,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/8.mp3",
+    "chapter": 10,
+    "verse": 8,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/9.mp3",
+    "chapter": 10,
+    "verse": 9,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/10.mp3",
+    "chapter": 10,
+    "verse": 10,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/11.mp3",
+    "chapter": 10,
+    "verse": 11,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/12.mp3",
+    "chapter": 10,
+    "verse": 12,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/13.mp3",
+    "chapter": 10,
+    "verse": 13,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/14.mp3",
+    "chapter": 10,
+    "verse": 14,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/15.mp3",
+    "chapter": 10,
+    "verse": 15,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/16.mp3",
+    "chapter": 10,
+    "verse": 16,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/17.mp3",
+    "chapter": 10,
+    "verse": 17,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/18.mp3",
+    "chapter": 10,
+    "verse": 18,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/19.mp3",
+    "chapter": 10,
+    "verse": 19,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/20.mp3",
+    "chapter": 10,
+    "verse": 20,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.21",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/21.mp3",
+    "chapter": 10,
+    "verse": 21,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.22",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/22.mp3",
+    "chapter": 10,
+    "verse": 22,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.23",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/23.mp3",
+    "chapter": 10,
+    "verse": 23,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.24",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/24.mp3",
+    "chapter": 10,
+    "verse": 24,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.25",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/25.mp3",
+    "chapter": 10,
+    "verse": 25,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.26",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/26.mp3",
+    "chapter": 10,
+    "verse": 26,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.27",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/27.mp3",
+    "chapter": 10,
+    "verse": 27,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.28",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/28.mp3",
+    "chapter": 10,
+    "verse": 28,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.29",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/29.mp3",
+    "chapter": 10,
+    "verse": 29,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.30",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/30.mp3",
+    "chapter": 10,
+    "verse": 30,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.31",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/31.mp3",
+    "chapter": 10,
+    "verse": 31,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.32",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/32.mp3",
+    "chapter": 10,
+    "verse": 32,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.33",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/33.mp3",
+    "chapter": 10,
+    "verse": 33,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.34",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/34.mp3",
+    "chapter": 10,
+    "verse": 34,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.35",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/35.mp3",
+    "chapter": 10,
+    "verse": 35,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.36",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/36.mp3",
+    "chapter": 10,
+    "verse": 36,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.37",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/37.mp3",
+    "chapter": 10,
+    "verse": 37,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.38",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/38.mp3",
+    "chapter": 10,
+    "verse": 38,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.39",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/39.mp3",
+    "chapter": 10,
+    "verse": 39,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.40",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/40.mp3",
+    "chapter": 10,
+    "verse": 40,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.41",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/41.mp3",
+    "chapter": 10,
+    "verse": 41,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "10.42",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/10/42.mp3",
+    "chapter": 10,
+    "verse": 42,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/1.mp3",
+    "chapter": 11,
+    "verse": 1,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/2.mp3",
+    "chapter": 11,
+    "verse": 2,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/3.mp3",
+    "chapter": 11,
+    "verse": 3,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/4.mp3",
+    "chapter": 11,
+    "verse": 4,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/5.mp3",
+    "chapter": 11,
+    "verse": 5,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/6.mp3",
+    "chapter": 11,
+    "verse": 6,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/7.mp3",
+    "chapter": 11,
+    "verse": 7,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/8.mp3",
+    "chapter": 11,
+    "verse": 8,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/9.mp3",
+    "chapter": 11,
+    "verse": 9,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/10.mp3",
+    "chapter": 11,
+    "verse": 10,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/11.mp3",
+    "chapter": 11,
+    "verse": 11,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/12.mp3",
+    "chapter": 11,
+    "verse": 12,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/13.mp3",
+    "chapter": 11,
+    "verse": 13,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/14.mp3",
+    "chapter": 11,
+    "verse": 14,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/15.mp3",
+    "chapter": 11,
+    "verse": 15,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/16.mp3",
+    "chapter": 11,
+    "verse": 16,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/17.mp3",
+    "chapter": 11,
+    "verse": 17,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/18.mp3",
+    "chapter": 11,
+    "verse": 18,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/19.mp3",
+    "chapter": 11,
+    "verse": 19,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/20.mp3",
+    "chapter": 11,
+    "verse": 20,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.21",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/21.mp3",
+    "chapter": 11,
+    "verse": 21,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.22",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/22.mp3",
+    "chapter": 11,
+    "verse": 22,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.23",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/23.mp3",
+    "chapter": 11,
+    "verse": 23,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.24",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/24.mp3",
+    "chapter": 11,
+    "verse": 24,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.25",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/25.mp3",
+    "chapter": 11,
+    "verse": 25,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.26",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/26.mp3",
+    "chapter": 11,
+    "verse": 26,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.27",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/27.mp3",
+    "chapter": 11,
+    "verse": 27,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.28",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/28.mp3",
+    "chapter": 11,
+    "verse": 28,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.29",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/29.mp3",
+    "chapter": 11,
+    "verse": 29,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.30",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/30.mp3",
+    "chapter": 11,
+    "verse": 30,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.31",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/31.mp3",
+    "chapter": 11,
+    "verse": 31,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.32",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/32.mp3",
+    "chapter": 11,
+    "verse": 32,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.33",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/33.mp3",
+    "chapter": 11,
+    "verse": 33,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.34",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/34.mp3",
+    "chapter": 11,
+    "verse": 34,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.35",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/35.mp3",
+    "chapter": 11,
+    "verse": 35,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.36",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/36.mp3",
+    "chapter": 11,
+    "verse": 36,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.37",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/37.mp3",
+    "chapter": 11,
+    "verse": 37,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.38",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/38.mp3",
+    "chapter": 11,
+    "verse": 38,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.39",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/39.mp3",
+    "chapter": 11,
+    "verse": 39,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.40",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/40.mp3",
+    "chapter": 11,
+    "verse": 40,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.41",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/41.mp3",
+    "chapter": 11,
+    "verse": 41,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.42",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/42.mp3",
+    "chapter": 11,
+    "verse": 42,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.43",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/43.mp3",
+    "chapter": 11,
+    "verse": 43,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.44",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/44.mp3",
+    "chapter": 11,
+    "verse": 44,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.45",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/45.mp3",
+    "chapter": 11,
+    "verse": 45,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.46",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/46.mp3",
+    "chapter": 11,
+    "verse": 46,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.47",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/47.mp3",
+    "chapter": 11,
+    "verse": 47,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.48",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/48.mp3",
+    "chapter": 11,
+    "verse": 48,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.49",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/49.mp3",
+    "chapter": 11,
+    "verse": 49,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.50",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/50.mp3",
+    "chapter": 11,
+    "verse": 50,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.51",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/51.mp3",
+    "chapter": 11,
+    "verse": 51,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.52",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/52.mp3",
+    "chapter": 11,
+    "verse": 52,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.53",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/53.mp3",
+    "chapter": 11,
+    "verse": 53,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.54",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/54.mp3",
+    "chapter": 11,
+    "verse": 54,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "11.55",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/11/55.mp3",
+    "chapter": 11,
+    "verse": 55,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/1.mp3",
+    "chapter": 12,
+    "verse": 1,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/2.mp3",
+    "chapter": 12,
+    "verse": 2,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/3.mp3",
+    "chapter": 12,
+    "verse": 3,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/4.mp3",
+    "chapter": 12,
+    "verse": 4,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/5.mp3",
+    "chapter": 12,
+    "verse": 5,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/6.mp3",
+    "chapter": 12,
+    "verse": 6,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/7.mp3",
+    "chapter": 12,
+    "verse": 7,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/8.mp3",
+    "chapter": 12,
+    "verse": 8,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/9.mp3",
+    "chapter": 12,
+    "verse": 9,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/10.mp3",
+    "chapter": 12,
+    "verse": 10,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/11.mp3",
+    "chapter": 12,
+    "verse": 11,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/12.mp3",
+    "chapter": 12,
+    "verse": 12,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/13.mp3",
+    "chapter": 12,
+    "verse": 13,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/14.mp3",
+    "chapter": 12,
+    "verse": 14,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/15.mp3",
+    "chapter": 12,
+    "verse": 15,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/16.mp3",
+    "chapter": 12,
+    "verse": 16,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/17.mp3",
+    "chapter": 12,
+    "verse": 17,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/18.mp3",
+    "chapter": 12,
+    "verse": 18,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/19.mp3",
+    "chapter": 12,
+    "verse": 19,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "12.20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/12/20.mp3",
+    "chapter": 12,
+    "verse": 20,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/2.mp3",
+    "chapter": 13,
+    "verse": 1,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/3.mp3",
+    "chapter": 13,
+    "verse": 2,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/4.mp3",
+    "chapter": 13,
+    "verse": 3,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/5.mp3",
+    "chapter": 13,
+    "verse": 4,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/6.mp3",
+    "chapter": 13,
+    "verse": 5,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/7.mp3",
+    "chapter": 13,
+    "verse": 6,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/8.mp3",
+    "chapter": 13,
+    "verse": 7,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/9.mp3",
+    "chapter": 13,
+    "verse": 8,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/10.mp3",
+    "chapter": 13,
+    "verse": 9,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/11.mp3",
+    "chapter": 13,
+    "verse": 10,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/12.mp3",
+    "chapter": 13,
+    "verse": 11,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/13.mp3",
+    "chapter": 13,
+    "verse": 12,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/14.mp3",
+    "chapter": 13,
+    "verse": 13,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/15.mp3",
+    "chapter": 13,
+    "verse": 14,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/16.mp3",
+    "chapter": 13,
+    "verse": 15,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/17.mp3",
+    "chapter": 13,
+    "verse": 16,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/18.mp3",
+    "chapter": 13,
+    "verse": 17,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/19.mp3",
+    "chapter": 13,
+    "verse": 18,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/20.mp3",
+    "chapter": 13,
+    "verse": 19,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/21.mp3",
+    "chapter": 13,
+    "verse": 20,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.21",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/22.mp3",
+    "chapter": 13,
+    "verse": 21,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.22",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/23.mp3",
+    "chapter": 13,
+    "verse": 22,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.23",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/24.mp3",
+    "chapter": 13,
+    "verse": 23,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.24",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/25.mp3",
+    "chapter": 13,
+    "verse": 24,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.25",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/26.mp3",
+    "chapter": 13,
+    "verse": 25,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.26",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/27.mp3",
+    "chapter": 13,
+    "verse": 26,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.27",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/28.mp3",
+    "chapter": 13,
+    "verse": 27,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.28",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/29.mp3",
+    "chapter": 13,
+    "verse": 28,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.29",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/30.mp3",
+    "chapter": 13,
+    "verse": 29,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.30",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/31.mp3",
+    "chapter": 13,
+    "verse": 30,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.31",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/32.mp3",
+    "chapter": 13,
+    "verse": 31,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.32",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/33.mp3",
+    "chapter": 13,
+    "verse": 32,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.33",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/34.mp3",
+    "chapter": 13,
+    "verse": 33,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "13.34",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/13/35.mp3",
+    "chapter": 13,
+    "verse": 34,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/1.mp3",
+    "chapter": 14,
+    "verse": 1,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/2.mp3",
+    "chapter": 14,
+    "verse": 2,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/3.mp3",
+    "chapter": 14,
+    "verse": 3,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/4.mp3",
+    "chapter": 14,
+    "verse": 4,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/5.mp3",
+    "chapter": 14,
+    "verse": 5,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/6.mp3",
+    "chapter": 14,
+    "verse": 6,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/7.mp3",
+    "chapter": 14,
+    "verse": 7,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/8.mp3",
+    "chapter": 14,
+    "verse": 8,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/9.mp3",
+    "chapter": 14,
+    "verse": 9,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/10.mp3",
+    "chapter": 14,
+    "verse": 10,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/11.mp3",
+    "chapter": 14,
+    "verse": 11,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/12.mp3",
+    "chapter": 14,
+    "verse": 12,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/13.mp3",
+    "chapter": 14,
+    "verse": 13,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/14.mp3",
+    "chapter": 14,
+    "verse": 14,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/15.mp3",
+    "chapter": 14,
+    "verse": 15,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/16.mp3",
+    "chapter": 14,
+    "verse": 16,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/17.mp3",
+    "chapter": 14,
+    "verse": 17,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/18.mp3",
+    "chapter": 14,
+    "verse": 18,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/19.mp3",
+    "chapter": 14,
+    "verse": 19,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/20.mp3",
+    "chapter": 14,
+    "verse": 20,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.21",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/21.mp3",
+    "chapter": 14,
+    "verse": 21,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.22",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/22.mp3",
+    "chapter": 14,
+    "verse": 22,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.23",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/23.mp3",
+    "chapter": 14,
+    "verse": 23,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.24",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/24.mp3",
+    "chapter": 14,
+    "verse": 24,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.25",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/25.mp3",
+    "chapter": 14,
+    "verse": 25,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.26",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/26.mp3",
+    "chapter": 14,
+    "verse": 26,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "14.27",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/14/27.mp3",
+    "chapter": 14,
+    "verse": 27,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/1.mp3",
+    "chapter": 15,
+    "verse": 1,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/2.mp3",
+    "chapter": 15,
+    "verse": 2,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/3.mp3",
+    "chapter": 15,
+    "verse": 3,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/4.mp3",
+    "chapter": 15,
+    "verse": 4,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/5.mp3",
+    "chapter": 15,
+    "verse": 5,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/6.mp3",
+    "chapter": 15,
+    "verse": 6,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/7.mp3",
+    "chapter": 15,
+    "verse": 7,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/8.mp3",
+    "chapter": 15,
+    "verse": 8,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/9.mp3",
+    "chapter": 15,
+    "verse": 9,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/10.mp3",
+    "chapter": 15,
+    "verse": 10,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/11.mp3",
+    "chapter": 15,
+    "verse": 11,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/12.mp3",
+    "chapter": 15,
+    "verse": 12,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/13.mp3",
+    "chapter": 15,
+    "verse": 13,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/14.mp3",
+    "chapter": 15,
+    "verse": 14,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/15.mp3",
+    "chapter": 15,
+    "verse": 15,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/16.mp3",
+    "chapter": 15,
+    "verse": 16,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/17.mp3",
+    "chapter": 15,
+    "verse": 17,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/18.mp3",
+    "chapter": 15,
+    "verse": 18,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/19.mp3",
+    "chapter": 15,
+    "verse": 19,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "15.20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/15/20.mp3",
+    "chapter": 15,
+    "verse": 20,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/1.mp3",
+    "chapter": 16,
+    "verse": 1,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/2.mp3",
+    "chapter": 16,
+    "verse": 2,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/3.mp3",
+    "chapter": 16,
+    "verse": 3,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/4.mp3",
+    "chapter": 16,
+    "verse": 4,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/5.mp3",
+    "chapter": 16,
+    "verse": 5,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/6.mp3",
+    "chapter": 16,
+    "verse": 6,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/7.mp3",
+    "chapter": 16,
+    "verse": 7,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/8.mp3",
+    "chapter": 16,
+    "verse": 8,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/9.mp3",
+    "chapter": 16,
+    "verse": 9,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/10.mp3",
+    "chapter": 16,
+    "verse": 10,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/11.mp3",
+    "chapter": 16,
+    "verse": 11,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/12.mp3",
+    "chapter": 16,
+    "verse": 12,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/13.mp3",
+    "chapter": 16,
+    "verse": 13,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/14.mp3",
+    "chapter": 16,
+    "verse": 14,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/15.mp3",
+    "chapter": 16,
+    "verse": 15,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/16.mp3",
+    "chapter": 16,
+    "verse": 16,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/17.mp3",
+    "chapter": 16,
+    "verse": 17,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/18.mp3",
+    "chapter": 16,
+    "verse": 18,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/19.mp3",
+    "chapter": 16,
+    "verse": 19,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/20.mp3",
+    "chapter": 16,
+    "verse": 20,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.21",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/21.mp3",
+    "chapter": 16,
+    "verse": 21,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.22",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/22.mp3",
+    "chapter": 16,
+    "verse": 22,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.23",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/23.mp3",
+    "chapter": 16,
+    "verse": 23,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "16.24",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/16/24.mp3",
+    "chapter": 16,
+    "verse": 24,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/1.mp3",
+    "chapter": 17,
+    "verse": 1,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/2.mp3",
+    "chapter": 17,
+    "verse": 2,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/3.mp3",
+    "chapter": 17,
+    "verse": 3,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/4.mp3",
+    "chapter": 17,
+    "verse": 4,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/5.mp3",
+    "chapter": 17,
+    "verse": 5,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/6.mp3",
+    "chapter": 17,
+    "verse": 6,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/7.mp3",
+    "chapter": 17,
+    "verse": 7,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/8.mp3",
+    "chapter": 17,
+    "verse": 8,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/9.mp3",
+    "chapter": 17,
+    "verse": 9,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/10.mp3",
+    "chapter": 17,
+    "verse": 10,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/11.mp3",
+    "chapter": 17,
+    "verse": 11,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/12.mp3",
+    "chapter": 17,
+    "verse": 12,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/13.mp3",
+    "chapter": 17,
+    "verse": 13,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/14.mp3",
+    "chapter": 17,
+    "verse": 14,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/15.mp3",
+    "chapter": 17,
+    "verse": 15,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/16.mp3",
+    "chapter": 17,
+    "verse": 16,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/17.mp3",
+    "chapter": 17,
+    "verse": 17,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/18.mp3",
+    "chapter": 17,
+    "verse": 18,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/19.mp3",
+    "chapter": 17,
+    "verse": 19,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/20.mp3",
+    "chapter": 17,
+    "verse": 20,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.21",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/21.mp3",
+    "chapter": 17,
+    "verse": 21,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.22",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/22.mp3",
+    "chapter": 17,
+    "verse": 22,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.23",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/23.mp3",
+    "chapter": 17,
+    "verse": 23,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.24",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/24.mp3",
+    "chapter": 17,
+    "verse": 24,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.25",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/25.mp3",
+    "chapter": 17,
+    "verse": 25,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.26",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/26.mp3",
+    "chapter": 17,
+    "verse": 26,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.27",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/27.mp3",
+    "chapter": 17,
+    "verse": 27,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "17.28",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/17/28.mp3",
+    "chapter": 17,
+    "verse": 28,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/1.mp3",
+    "chapter": 18,
+    "verse": 1,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/2.mp3",
+    "chapter": 18,
+    "verse": 2,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/3.mp3",
+    "chapter": 18,
+    "verse": 3,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/4.mp3",
+    "chapter": 18,
+    "verse": 4,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/5.mp3",
+    "chapter": 18,
+    "verse": 5,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/6.mp3",
+    "chapter": 18,
+    "verse": 6,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/7.mp3",
+    "chapter": 18,
+    "verse": 7,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/8.mp3",
+    "chapter": 18,
+    "verse": 8,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/9.mp3",
+    "chapter": 18,
+    "verse": 9,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/10.mp3",
+    "chapter": 18,
+    "verse": 10,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/11.mp3",
+    "chapter": 18,
+    "verse": 11,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/12.mp3",
+    "chapter": 18,
+    "verse": 12,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/13.mp3",
+    "chapter": 18,
+    "verse": 13,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/14.mp3",
+    "chapter": 18,
+    "verse": 14,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/15.mp3",
+    "chapter": 18,
+    "verse": 15,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/16.mp3",
+    "chapter": 18,
+    "verse": 16,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/17.mp3",
+    "chapter": 18,
+    "verse": 17,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/18.mp3",
+    "chapter": 18,
+    "verse": 18,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/19.mp3",
+    "chapter": 18,
+    "verse": 19,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/20.mp3",
+    "chapter": 18,
+    "verse": 20,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.21",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/21.mp3",
+    "chapter": 18,
+    "verse": 21,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.22",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/22.mp3",
+    "chapter": 18,
+    "verse": 22,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.23",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/23.mp3",
+    "chapter": 18,
+    "verse": 23,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.24",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/24.mp3",
+    "chapter": 18,
+    "verse": 24,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.25",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/25.mp3",
+    "chapter": 18,
+    "verse": 25,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.26",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/26.mp3",
+    "chapter": 18,
+    "verse": 26,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.27",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/27.mp3",
+    "chapter": 18,
+    "verse": 27,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.28",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/28.mp3",
+    "chapter": 18,
+    "verse": 28,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.29",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/29.mp3",
+    "chapter": 18,
+    "verse": 29,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.30",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/30.mp3",
+    "chapter": 18,
+    "verse": 30,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.31",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/31.mp3",
+    "chapter": 18,
+    "verse": 31,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.32",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/32.mp3",
+    "chapter": 18,
+    "verse": 32,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.33",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/33.mp3",
+    "chapter": 18,
+    "verse": 33,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.34",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/34.mp3",
+    "chapter": 18,
+    "verse": 34,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.35",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/35.mp3",
+    "chapter": 18,
+    "verse": 35,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.36",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/36.mp3",
+    "chapter": 18,
+    "verse": 36,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.37",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/37.mp3",
+    "chapter": 18,
+    "verse": 37,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.38",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/38.mp3",
+    "chapter": 18,
+    "verse": 38,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.39",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/39.mp3",
+    "chapter": 18,
+    "verse": 39,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.40",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/40.mp3",
+    "chapter": 18,
+    "verse": 40,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.41",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/41.mp3",
+    "chapter": 18,
+    "verse": 41,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.42",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/42.mp3",
+    "chapter": 18,
+    "verse": 42,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.43",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/43.mp3",
+    "chapter": 18,
+    "verse": 43,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.44",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/44.mp3",
+    "chapter": 18,
+    "verse": 44,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.45",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/45.mp3",
+    "chapter": 18,
+    "verse": 45,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.46",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/46.mp3",
+    "chapter": 18,
+    "verse": 46,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.47",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/47.mp3",
+    "chapter": 18,
+    "verse": 47,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.48",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/48.mp3",
+    "chapter": 18,
+    "verse": 48,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.49",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/49.mp3",
+    "chapter": 18,
+    "verse": 49,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.50",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/50.mp3",
+    "chapter": 18,
+    "verse": 50,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.51",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/51.mp3",
+    "chapter": 18,
+    "verse": 51,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.52",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/52.mp3",
+    "chapter": 18,
+    "verse": 52,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.53",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/53.mp3",
+    "chapter": 18,
+    "verse": 53,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.54",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/54.mp3",
+    "chapter": 18,
+    "verse": 54,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.55",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/55.mp3",
+    "chapter": 18,
+    "verse": 55,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.56",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/56.mp3",
+    "chapter": 18,
+    "verse": 56,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.57",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/57.mp3",
+    "chapter": 18,
+    "verse": 57,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.58",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/58.mp3",
+    "chapter": 18,
+    "verse": 58,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.59",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/59.mp3",
+    "chapter": 18,
+    "verse": 59,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.60",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/60.mp3",
+    "chapter": 18,
+    "verse": 60,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.61",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/61.mp3",
+    "chapter": 18,
+    "verse": 61,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.62",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/62.mp3",
+    "chapter": 18,
+    "verse": 62,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.63",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/63.mp3",
+    "chapter": 18,
+    "verse": 63,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.64",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/64.mp3",
+    "chapter": 18,
+    "verse": 64,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.65",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/65.mp3",
+    "chapter": 18,
+    "verse": 65,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.66",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/66.mp3",
+    "chapter": 18,
+    "verse": 66,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.67",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/67.mp3",
+    "chapter": 18,
+    "verse": 67,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.68",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/68.mp3",
+    "chapter": 18,
+    "verse": 68,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.69",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/69.mp3",
+    "chapter": 18,
+    "verse": 69,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.70",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/70.mp3",
+    "chapter": 18,
+    "verse": 70,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.71",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/71.mp3",
+    "chapter": 18,
+    "verse": 71,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.72",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/72.mp3",
+    "chapter": 18,
+    "verse": 72,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.73",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/73.mp3",
+    "chapter": 18,
+    "verse": 73,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.74",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/74.mp3",
+    "chapter": 18,
+    "verse": 74,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.75",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/75.mp3",
+    "chapter": 18,
+    "verse": 75,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.76",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/76.mp3",
+    "chapter": 18,
+    "verse": 76,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.77",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/77.mp3",
+    "chapter": 18,
+    "verse": 77,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  },
+  {
+    "verseId": "18.78",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/18/78.mp3",
+    "chapter": 18,
+    "verse": 78,
+    "attribution": "Recitation sourced from gita/gita dataset (The Unlicense - Public Domain)"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "edition": "Traditional 700-verse recension (Shankaracharya / Gita Press standard baseline)",
+  "totalChapters": 18,
+  "totalVerses": 700,
+  "repository": "https://github.com/gita/gita",
+  "license": "The Unlicense (Public Domain Dedication)",
+  "commentatorsAndTranslators": [
+    {
+      "name": "Swami Ramsukhdas",
+      "language": "Hindi",
+      "work": "Sadhak Sanjivani (Gita Press)",
+      "attribution": "Primary Hindi translation"
+    },
+    {
+      "name": "Swami Tejomayananda",
+      "language": "Hindi",
+      "work": "Chinmaya Mission",
+      "attribution": "Alternate Hindi translation"
+    },
+    {
+      "name": "Swami Sivananda",
+      "language": "English",
+      "work": "The Bhagavad Gita (Divine Life Society)",
+      "attribution": "Primary English translation"
+    },
+    {
+      "name": "Swami Adidevananda",
+      "language": "English",
+      "work": "Sri Ramanuja Gita Bhasya",
+      "attribution": "Alternate English translation"
+    },
+    {
+      "name": "Swami Gambhirananda",
+      "language": "English",
+      "work": "Bhagavadgita with the commentary of Sankaracarya",
+      "attribution": "Alternate English translation"
+    }
+  ],
+  "editorialConventions": [
+    "Traditional 700-shloka canonical distribution strictly respected.",
+    "In Chapter 13, Arjuna's opening inquiry ('prakṛtiṁ puruṣaṁ caiva...'), which is omitted or unnumbered in Shankara and Ramanuja recensions to achieve exactly 700 verses, is preserved as Chapter 13 prologue invocation metadata, with verses 1..34 mapping faithfully to Sri Bhagavanuvacha onward.",
+    "Word-by-word meanings provided for every verse.",
+    "Roman transliteration provided for every verse.",
+    "Audio recitation links mapped for every verse to high-fidelity MP3 recitations from the gita/gita open archive."
+  ]
+}

@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Noto+Serif+Devanagari:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #101827;
+  --navbar: #1a2333;
+  --surface: #172033;
+  --surface-secondary: #202b3f;
+  --surface-hover: #293852;
+
+  --text-primary: #F8FAFC;
+  --text-secondary: #94A3B8;
+  --text-muted: #64748B;
+
+  --border-primary: #334155;
+  --border-strong: #64748B;
+
+  --accent: #A3E635;
+  --accent-soft: rgba(163, 230, 53, 0.15);
+  --accent-hover: #84CC16;
+  --accent-contrast: #0F172A;
+
+  --primary: #A3E635;
+  --primary-hover: #84CC16;
+
+  --success: #22C55E;
+  --danger: #EF4444;
+
+  --shadow-color: #050b14;
+}
+
+[data-theme="dark"] {
+  --background: #101827;
+  --navbar: #1a2333;
+  --surface: #172033;
+  --surface-secondary: #202b3f;
+  --surface-hover: #293852;
+
+  --text-primary: #F8FAFC;
+  --text-secondary: #94A3B8;
+  --text-muted: #64748B;
+
+  --border-primary: #334155;
+  --border-strong: #64748B;
+
+  --accent: #A3E635;
+  --accent-soft: rgba(163, 230, 53, 0.15);
+  --accent-hover: #84CC16;
+  --accent-contrast: #0F172A;
+
+  --primary: #A3E635;
+  --primary-hover: #84CC16;
+
+  --success: #22C55E;
+  --danger: #EF4444;
+
+  --shadow-color: #050b14;
+}
+
+[data-theme="light"] {
+  --background: #F4F6F8;
+  --navbar: #FFFFFF;
+  --surface: #FFFFFF;
+  --surface-secondary: #E8EEF4;
+  --surface-hover: #DCE5ED;
+
+  --text-primary: #0F172A;
+  --text-secondary: #475569;
+  --text-muted: #64748B;
+
+  --border-primary: #CBD5E1;
+  --border-strong: #0F172A;
+
+  --accent: #65A30D;
+  --accent-soft: rgba(101, 163, 13, 0.15);
+  --accent-hover: #4D7C0F;
+  --accent-contrast: #FFFFFF;
+
+  --primary: #65A30D;
+  --primary-hover: #4D7C0F;
+
+  --success: #15803D;
+  --danger: #DC2626;
+
+  --shadow-color: #0F172A;
+}
+
+[data-theme="parchment"] {
+  --background: #F5EEDB;
+  --navbar: #EBDCBE;
+  --surface: #FDF9F0;
+  --surface-secondary: #EFE4CD;
+  --surface-hover: #E4D5B8;
+
+  --text-primary: #2C221A;
+  --text-secondary: #574636;
+  --text-muted: #7E6752;
+
+  --border-primary: #D4BE98;
+  --border-strong: #2C221A;
+
+  --accent: #8F521B;
+  --accent-soft: rgba(143, 82, 27, 0.15);
+  --accent-hover: #723E10;
+  --accent-contrast: #FFFFFF;
+
+  --primary: #8F521B;
+  --primary-hover: #723E10;
+
+  --success: #16A34A;
+  --danger: #DC2626;
+
+  --shadow-color: #2C221A;
+}
+
+html, body {
+  background-color: var(--background);
+  color: var(--text-primary);
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  transition: background-color 0.15s ease, color 0.15s ease;
+  overflow-x: hidden;
+  max-width: 100vw;
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-sanskrit {
+  font-family: 'Noto Serif Devanagari', serif;
+  line-height: 1.8;
+}
+
+.font-serif-sacred {
+  font-family: 'Cinzel', serif;
+}
+
+/* Neo-Brutalist Reusable Primitives */
+.neo-card {
+  background-color: var(--surface);
+  border: 2px solid var(--border-strong);
+  box-shadow: 4px 4px 0 var(--shadow-color);
+  border-radius: 6px;
+  transition: transform 0.1s ease, box-shadow 0.1s ease;
+}
+
+.neo-card-sm {
+  background-color: var(--surface);
+  border: 2px solid var(--border-strong);
+  box-shadow: 2px 2px 0 var(--shadow-color);
+  border-radius: 4px;
+}
+
+.neo-btn-primary {
+  background-color: var(--accent);
+  color: var(--accent-contrast);
+  border: 2px solid var(--border-strong);
+  box-shadow: 3px 3px 0 var(--shadow-color);
+  font-weight: 800;
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  transition: transform 0.08s ease, box-shadow 0.08s ease;
+}
+
+.neo-btn-primary:hover {
+  background-color: var(--accent-hover);
+  transform: translate(-1px, -1px);
+  box-shadow: 4px 4px 0 var(--shadow-color);
+}
+
+.neo-btn-primary:active {
+  transform: translate(2px, 2px);
+  box-shadow: 0 0 0 var(--shadow-color);
+}
+
+.neo-btn-secondary {
+  background-color: var(--surface);
+  color: var(--text-primary);
+  border: 2px solid var(--border-strong);
+  box-shadow: 3px 3px 0 var(--shadow-color);
+  font-weight: 700;
+  border-radius: 4px;
+  transition: transform 0.08s ease, box-shadow 0.08s ease, background-color 0.1s ease;
+}
+
+.neo-btn-secondary:hover {
+  background-color: var(--surface-hover);
+  transform: translate(-1px, -1px);
+  box-shadow: 4px 4px 0 var(--shadow-color);
+}
+
+.neo-btn-secondary:active {
+  transform: translate(2px, 2px);
+  box-shadow: 0 0 0 var(--shadow-color);
+}
+
+.neo-badge {
+  border: 2px solid var(--border-strong);
+  box-shadow: 2px 2px 0 var(--shadow-color);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-weight: 800;
+  text-transform: uppercase;
+  border-radius: 4px;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-primary);
+  border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent);
+}
+
+/* Accessible focus outline */
+*:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Responsive Sanskrit Verse Typography */
+.sanskrit-verse {
+  font-size: clamp(1.25rem, 1rem + 0.7vw, 1.75rem);
+  line-height: 1.9;
+}
+

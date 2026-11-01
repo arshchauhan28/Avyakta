@@ -1,0 +1,2870 @@
+[
+  {
+    "id": "7.1",
+    "chapter": 7,
+    "verse": 1,
+    "sanskrit": "श्री भगवानुवाच\nमय्यासक्तमनाः पार्थ योगं युञ्जन्मदाश्रयः।\nअसंशयं समग्रं मां यथा ज्ञास्यसि तच्छृणु।।7.1।।",
+    "transliteration": "śhrī bhagavān uvācha\nmayyāsakta-manāḥ pārtha yogaṁ yuñjan mad-āśhrayaḥ\nasanśhayaṁ samagraṁ māṁ yathā jñāsyasi tach chhṛiṇu",
+    "translations": {
+      "hindi": {
+        "text": "।।7.1।। श्रीभगवान् बोले -- हे पृथानन्दन ! मुझमें आसक्त मनवाला, मेरे आश्रित होकर योगका अभ्यास करता हुआ तू मेरे समग्ररूपको निःसन्देह जैसा जानेगा, उसको सुन।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "1961"
+      },
+      "english": {
+        "text": "The Blessed Lord said, \"O Arjuna, hear how you shall, without doubt, know Me fully, with your mind intent on Me, practicing Yoga and taking refuge in Me.\"",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "1965"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "śhrī-bhagavān uvācha",
+        "transliteration": "śhrī-bhagavān uvācha",
+        "meaningEnglish": "the Supreme Lord said"
+      },
+      {
+        "word": "mayi",
+        "transliteration": "mayi",
+        "meaningEnglish": "to me"
+      },
+      {
+        "word": "āsakta-manāḥ",
+        "transliteration": "āsakta-manāḥ",
+        "meaningEnglish": "with the mind attached"
+      },
+      {
+        "word": "pārtha",
+        "transliteration": "pārtha",
+        "meaningEnglish": "Arjun, the son of Pritha"
+      },
+      {
+        "word": "yogam",
+        "transliteration": "yogam",
+        "meaningEnglish": "bhakti yog"
+      },
+      {
+        "word": "yuñjan",
+        "transliteration": "yuñjan",
+        "meaningEnglish": "practicing"
+      },
+      {
+        "word": "mat-āśhrayaḥ",
+        "transliteration": "mat-āśhrayaḥ",
+        "meaningEnglish": "surrendering to me"
+      },
+      {
+        "word": "asanśhayam",
+        "transliteration": "asanśhayam",
+        "meaningEnglish": "free from doubt"
+      },
+      {
+        "word": "samagram",
+        "transliteration": "samagram",
+        "meaningEnglish": "completely"
+      },
+      {
+        "word": "mām",
+        "transliteration": "mām",
+        "meaningEnglish": "me"
+      },
+      {
+        "word": "yathā",
+        "transliteration": "yathā",
+        "meaningEnglish": "how"
+      },
+      {
+        "word": "jñāsyasi",
+        "transliteration": "jñāsyasi",
+        "meaningEnglish": "you shall know"
+      },
+      {
+        "word": "tat",
+        "transliteration": "tat",
+        "meaningEnglish": "that"
+      },
+      {
+        "word": "śhṛiṇu",
+        "transliteration": "śhṛiṇu",
+        "meaningEnglish": "listen"
+      }
+    ],
+    "wordMeaningsRaw": "śhrī-bhagavān uvācha—the Supreme Lord said; mayi—to me; āsakta-manāḥ—with the mind attached; pārtha—Arjun, the son of Pritha; yogam—bhakti yog; yuñjan—practicing; mat-āśhrayaḥ—surrendering to me; asanśhayam—free from doubt; samagram—completely; mām—me; yathā—how; jñāsyasi—you shall know; tat—that; śhṛiṇu—listen",
+    "audioId": "7-1",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/1.mp3"
+  },
+  {
+    "id": "7.2",
+    "chapter": 7,
+    "verse": 2,
+    "sanskrit": "ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः।\nयज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते।।7.2।।",
+    "transliteration": "jñānaṁ te ’haṁ sa-vijñānam idaṁ vakṣhyāmyaśheṣhataḥ\nyaj jñātvā neha bhūyo ’nyaj jñātavyam-avaśhiṣhyate",
+    "translations": {
+      "hindi": {
+        "text": "।।7.2।। तेरे लिये मैं विज्ञानसहित ज्ञान सम्पूर्णतासे कहूँगा, जिसको जाननेके बाद फिर यहाँ कुछ भी जानना बाकी नहीं रहेगा।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "1968"
+      },
+      "english": {
+        "text": "I will declare to you in full this knowledge combined with realization, after knowing which nothing else remains to be known here.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "1972"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "jñānam",
+        "transliteration": "jñānam",
+        "meaningEnglish": "knowledge"
+      },
+      {
+        "word": "te",
+        "transliteration": "te",
+        "meaningEnglish": "unto you"
+      },
+      {
+        "word": "aham",
+        "transliteration": "aham",
+        "meaningEnglish": "I"
+      },
+      {
+        "word": "sa",
+        "transliteration": "sa",
+        "meaningEnglish": "with"
+      },
+      {
+        "word": "vijñānam",
+        "transliteration": "vijñānam",
+        "meaningEnglish": "wisdom"
+      },
+      {
+        "word": "idam",
+        "transliteration": "idam",
+        "meaningEnglish": "this"
+      },
+      {
+        "word": "vakṣhyāmi",
+        "transliteration": "vakṣhyāmi",
+        "meaningEnglish": "shall reveal"
+      },
+      {
+        "word": "aśheṣhataḥ",
+        "transliteration": "aśheṣhataḥ",
+        "meaningEnglish": "in full"
+      },
+      {
+        "word": "yat",
+        "transliteration": "yat",
+        "meaningEnglish": "which"
+      },
+      {
+        "word": "jñātvā",
+        "transliteration": "jñātvā",
+        "meaningEnglish": "having known"
+      },
+      {
+        "word": "na",
+        "transliteration": "na",
+        "meaningEnglish": "not"
+      },
+      {
+        "word": "iha",
+        "transliteration": "iha",
+        "meaningEnglish": "in this world"
+      },
+      {
+        "word": "bhūyaḥ",
+        "transliteration": "bhūyaḥ",
+        "meaningEnglish": "further"
+      },
+      {
+        "word": "anyat",
+        "transliteration": "anyat",
+        "meaningEnglish": "anything else"
+      },
+      {
+        "word": "jñātavyam",
+        "transliteration": "jñātavyam",
+        "meaningEnglish": "to be known"
+      },
+      {
+        "word": "avaśhiṣhyate",
+        "transliteration": "avaśhiṣhyate",
+        "meaningEnglish": "remains"
+      }
+    ],
+    "wordMeaningsRaw": "jñānam—knowledge; te—unto you; aham—I; sa—with; vijñānam—wisdom; idam—this; vakṣhyāmi—shall reveal; aśheṣhataḥ—in full; yat—which; jñātvā—having known; na—not; iha—in this world; bhūyaḥ—further; anyat—anything else; jñātavyam—to be known; avaśhiṣhyate—remains",
+    "audioId": "7-2",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/2.mp3"
+  },
+  {
+    "id": "7.3",
+    "chapter": 7,
+    "verse": 3,
+    "sanskrit": "मनुष्याणां सहस्रेषु कश्िचद्यतति सिद्धये।\nयततामपि सिद्धानां कश्िचन्मां वेत्ति तत्त्वतः।।7.3।।",
+    "transliteration": "manuṣhyāṇāṁ sahasreṣhu kaśhchid yatati siddhaye\nyatatām api siddhānāṁ kaśhchin māṁ vetti tattvataḥ",
+    "translations": {
+      "hindi": {
+        "text": "।।7.3।। हजारों मनुष्योंमें कोई एक वास्तविक सिद्धिके लिये यत्न करता है और उन यत्न करनेवाले सिद्धोंमें कोई एक ही मुझे तत्त्वसे जानता है।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "1975"
+      },
+      "english": {
+        "text": "Among thousands of men, one may perchance strive for perfection; even among those successful strivers, only one may perchance know Me in essence.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "1979"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "manuṣhyāṇām",
+        "transliteration": "manuṣhyāṇām",
+        "meaningEnglish": "of men"
+      },
+      {
+        "word": "sahasreṣhu",
+        "transliteration": "sahasreṣhu",
+        "meaningEnglish": "out of many thousands"
+      },
+      {
+        "word": "kaśhchit",
+        "transliteration": "kaśhchit",
+        "meaningEnglish": "someone"
+      },
+      {
+        "word": "yatati",
+        "transliteration": "yatati",
+        "meaningEnglish": "strives"
+      },
+      {
+        "word": "siddhaye",
+        "transliteration": "siddhaye",
+        "meaningEnglish": "for perfection"
+      },
+      {
+        "word": "yatatām",
+        "transliteration": "yatatām",
+        "meaningEnglish": "of those who strive"
+      },
+      {
+        "word": "api",
+        "transliteration": "api",
+        "meaningEnglish": "even"
+      },
+      {
+        "word": "siddhānām",
+        "transliteration": "siddhānām",
+        "meaningEnglish": "of those who have achieved perfection"
+      },
+      {
+        "word": "kaśhchit",
+        "transliteration": "kaśhchit",
+        "meaningEnglish": "someone"
+      },
+      {
+        "word": "mām",
+        "transliteration": "mām",
+        "meaningEnglish": "me"
+      },
+      {
+        "word": "vetti",
+        "transliteration": "vetti",
+        "meaningEnglish": "knows"
+      },
+      {
+        "word": "tattvataḥ",
+        "transliteration": "tattvataḥ",
+        "meaningEnglish": "in truth"
+      }
+    ],
+    "wordMeaningsRaw": "manuṣhyāṇām—of men; sahasreṣhu—out of many thousands; kaśhchit—someone; yatati—strives; siddhaye—for perfection; yatatām—of those who strive; api—even; siddhānām—of those who have achieved perfection; kaśhchit—someone; mām—me; vetti—knows; tattvataḥ—in truth",
+    "audioId": "7-3",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/3.mp3"
+  },
+  {
+    "id": "7.4",
+    "chapter": 7,
+    "verse": 4,
+    "sanskrit": "भूमिरापोऽनलो वायुः खं मनो बुद्धिरेव च।\nअहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टधा।।7.4।।",
+    "transliteration": "bhūmir-āpo ’nalo vāyuḥ khaṁ mano buddhir eva cha\nahankāra itīyaṁ me bhinnā prakṛitir aṣhṭadhā",
+    "translations": {
+      "hindi": {
+        "text": "।।7.4 -- 7.5।।  पृथ्वी, जल, तेज, वायु, आकाश -- ये पञ्चमहाभूत और मन, बुद्धि तथा अहंकार -- यह आठ प्रकारके भेदोंवाली मेरी 'अपरा' प्रकृति है। हे महाबाहो ! इस अपरा प्रकृतिसे भिन्न जीवरूप बनी हुई मेरी 'परा' प्रकृतिको जान, जिसके द्वारा यह जगत् धारण किया जाता है।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "1982"
+      },
+      "english": {
+        "text": "Earth, water, fire, air, ether, mind, intellect, and egoism—thus is My Nature divided eightfold.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "1986"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "bhūmiḥ",
+        "transliteration": "bhūmiḥ",
+        "meaningEnglish": "earth"
+      },
+      {
+        "word": "āpaḥ",
+        "transliteration": "āpaḥ",
+        "meaningEnglish": "water"
+      },
+      {
+        "word": "analaḥ",
+        "transliteration": "analaḥ",
+        "meaningEnglish": "fire"
+      },
+      {
+        "word": "vāyuḥ",
+        "transliteration": "vāyuḥ",
+        "meaningEnglish": "air"
+      },
+      {
+        "word": "kham",
+        "transliteration": "kham",
+        "meaningEnglish": "space"
+      },
+      {
+        "word": "manaḥ",
+        "transliteration": "manaḥ",
+        "meaningEnglish": "mind"
+      },
+      {
+        "word": "buddhiḥ",
+        "transliteration": "buddhiḥ",
+        "meaningEnglish": "intellect"
+      },
+      {
+        "word": "eva",
+        "transliteration": "eva",
+        "meaningEnglish": "certainly"
+      },
+      {
+        "word": "cha",
+        "transliteration": "cha",
+        "meaningEnglish": "and"
+      },
+      {
+        "word": "ahankāraḥ",
+        "transliteration": "ahankāraḥ",
+        "meaningEnglish": "ego"
+      },
+      {
+        "word": "iti",
+        "transliteration": "iti",
+        "meaningEnglish": "thus"
+      },
+      {
+        "word": "iyam",
+        "transliteration": "iyam",
+        "meaningEnglish": "all these"
+      },
+      {
+        "word": "me",
+        "transliteration": "me",
+        "meaningEnglish": "my"
+      },
+      {
+        "word": "bhinnā",
+        "transliteration": "bhinnā",
+        "meaningEnglish": "divisions"
+      },
+      {
+        "word": "prakṛitiḥ",
+        "transliteration": "prakṛitiḥ",
+        "meaningEnglish": "material energy"
+      },
+      {
+        "word": "aṣhṭadhā",
+        "transliteration": "aṣhṭadhā",
+        "meaningEnglish": "eightfold"
+      }
+    ],
+    "wordMeaningsRaw": "bhūmiḥ—earth; āpaḥ—water; analaḥ—fire; vāyuḥ—air; kham—space; manaḥ—mind; buddhiḥ—intellect; eva—certainly; cha—and; ahankāraḥ—ego; iti—thus; iyam—all these; me—my; bhinnā—divisions; prakṛitiḥ—material energy; aṣhṭadhā—eightfold",
+    "audioId": "7-4",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/4.mp3"
+  },
+  {
+    "id": "7.5",
+    "chapter": 7,
+    "verse": 5,
+    "sanskrit": "अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम्।\nजीवभूतां महाबाहो ययेदं धार्यते जगत्।।7.5।।",
+    "transliteration": "apareyam itas tvanyāṁ prakṛitiṁ viddhi me parām\njīva-bhūtāṁ mahā-bāho yayedaṁ dhāryate jagat",
+    "translations": {
+      "hindi": {
+        "text": "।।7.4 -- 7.5।।  पृथ्वी, जल, तेज, वायु, आकाश -- ये पञ्चमहाभूत और मन, बुद्धि तथा अहंकार -- यह आठ प्रकारके भेदोंवाली मेरी अपरा प्रकृति है। हे महाबाहो ! इस 'अपरा' प्रकृतिसे भिन्न मेरी जीवरूपा बनी हुुई मेरी 'परा' प्रकृतिको जान, जिसके द्वारा यह जगत् धारण किया जाता है।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "1989"
+      },
+      "english": {
+        "text": "O mighty-armed Arjuna, this is the inferior Prakriti; know it as distinct from My higher Prakriti, the very life-element, by which this world is upheld.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "1993"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "aparā",
+        "transliteration": "aparā",
+        "meaningEnglish": "inferior"
+      },
+      {
+        "word": "iyam",
+        "transliteration": "iyam",
+        "meaningEnglish": "this"
+      },
+      {
+        "word": "itaḥ",
+        "transliteration": "itaḥ",
+        "meaningEnglish": "besides this"
+      },
+      {
+        "word": "tu",
+        "transliteration": "tu",
+        "meaningEnglish": "but"
+      },
+      {
+        "word": "anyām",
+        "transliteration": "anyām",
+        "meaningEnglish": "another"
+      },
+      {
+        "word": "prakṛitim",
+        "transliteration": "prakṛitim",
+        "meaningEnglish": "energy"
+      },
+      {
+        "word": "viddhi",
+        "transliteration": "viddhi",
+        "meaningEnglish": "know"
+      },
+      {
+        "word": "me",
+        "transliteration": "me",
+        "meaningEnglish": "my"
+      },
+      {
+        "word": "parām",
+        "transliteration": "parām",
+        "meaningEnglish": "superior"
+      },
+      {
+        "word": "jīva-bhūtām",
+        "transliteration": "jīva-bhūtām",
+        "meaningEnglish": "living beings"
+      },
+      {
+        "word": "mahā-bāho",
+        "transliteration": "mahā-bāho",
+        "meaningEnglish": "mighty-armed one"
+      },
+      {
+        "word": "yayā",
+        "transliteration": "yayā",
+        "meaningEnglish": "by whom"
+      },
+      {
+        "word": "idam",
+        "transliteration": "idam",
+        "meaningEnglish": "this"
+      },
+      {
+        "word": "dhāryate",
+        "transliteration": "dhāryate",
+        "meaningEnglish": "the basis"
+      },
+      {
+        "word": "jagat",
+        "transliteration": "jagat",
+        "meaningEnglish": "the material world"
+      }
+    ],
+    "wordMeaningsRaw": "aparā—inferior; iyam—this; itaḥ—besides this; tu—but; anyām—another; prakṛitim—energy; viddhi—know; me—my; parām—superior; jīva-bhūtām—living beings; mahā-bāho—mighty-armed one; yayā—by whom; idam—this; dhāryate—the basis; jagat—the material world",
+    "audioId": "7-5",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/5.mp3"
+  },
+  {
+    "id": "7.6",
+    "chapter": 7,
+    "verse": 6,
+    "sanskrit": "एतद्योनीनि भूतानि सर्वाणीत्युपधारय।\nअहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा।।7.6।।",
+    "transliteration": "etad-yonīni bhūtāni sarvāṇītyupadhāraya\nahaṁ kṛitsnasya jagataḥ prabhavaḥ pralayas tathā",
+    "translations": {
+      "hindi": {
+        "text": "।।7.6।। अपरा और परा -- इन दोनों प्रकृतियोंके संयोगसे ही सम्पूर्ण प्राणी उत्पन्न होते हैं, ऐसा तुम समझो। मैं सम्पूर्ण जगत् का प्रभव तथा प्रलय हूँ।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "1996"
+      },
+      "english": {
+        "text": "Know that these two are the womb of all beings; thus, I am the source and dissolution of the whole universe.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2000"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "etat yonīni",
+        "transliteration": "etat yonīni",
+        "meaningEnglish": "these two (energies) are the source of"
+      },
+      {
+        "word": "bhūtāni",
+        "transliteration": "bhūtāni",
+        "meaningEnglish": "living beings"
+      },
+      {
+        "word": "sarvāṇi",
+        "transliteration": "sarvāṇi",
+        "meaningEnglish": "all"
+      },
+      {
+        "word": "iti",
+        "transliteration": "iti",
+        "meaningEnglish": "that"
+      },
+      {
+        "word": "upadhāraya",
+        "transliteration": "upadhāraya",
+        "meaningEnglish": "know"
+      },
+      {
+        "word": "aham",
+        "transliteration": "aham",
+        "meaningEnglish": "I"
+      },
+      {
+        "word": "kṛitsnasya",
+        "transliteration": "kṛitsnasya",
+        "meaningEnglish": "entire"
+      },
+      {
+        "word": "jagataḥ",
+        "transliteration": "jagataḥ",
+        "meaningEnglish": "creation"
+      },
+      {
+        "word": "prabhavaḥ",
+        "transliteration": "prabhavaḥ",
+        "meaningEnglish": "the source"
+      },
+      {
+        "word": "pralayaḥ",
+        "transliteration": "pralayaḥ",
+        "meaningEnglish": "dissolution"
+      },
+      {
+        "word": "tathā",
+        "transliteration": "tathā",
+        "meaningEnglish": "and"
+      }
+    ],
+    "wordMeaningsRaw": "etat yonīni—these two (energies) are the source of; bhūtāni—living beings; sarvāṇi—all; iti—that; upadhāraya—know; aham—I; kṛitsnasya—entire; jagataḥ—creation; prabhavaḥ—the source; pralayaḥ—dissolution; tathā—and",
+    "audioId": "7-6",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/6.mp3"
+  },
+  {
+    "id": "7.7",
+    "chapter": 7,
+    "verse": 7,
+    "sanskrit": "मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय।\nमयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव।।7.7।।",
+    "transliteration": "mattaḥ parataraṁ nānyat kiñchid asti dhanañjaya\nmayi sarvam idaṁ protaṁ sūtre maṇi-gaṇā iva",
+    "translations": {
+      "hindi": {
+        "text": "।।7.7।। हे धनञ्जय ! मेरे बढ़कर (इस जगत् का) दूसरा कोई किञ्चिन्मात्र भी कारण नहीं है। जैसे सूतकी मणियाँ सूतके धागेमें पिरोयी हुई होती हैं, ऐसे ही यह सम्पूर्ण जगत् मेरेमें ही ओत-प्रोत है।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2003"
+      },
+      "english": {
+        "text": "There is nothing higher than Me, O Arjuna. All this is strung on Me, like clusters of gems on a string.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2007"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "mattaḥ",
+        "transliteration": "mattaḥ",
+        "meaningEnglish": "than me"
+      },
+      {
+        "word": "para-taram",
+        "transliteration": "para-taram",
+        "meaningEnglish": "superior"
+      },
+      {
+        "word": "na",
+        "transliteration": "na",
+        "meaningEnglish": "not"
+      },
+      {
+        "word": "anyat kiñchit",
+        "transliteration": "anyat kiñchit",
+        "meaningEnglish": "anything else"
+      },
+      {
+        "word": "asti",
+        "transliteration": "asti",
+        "meaningEnglish": "there is"
+      },
+      {
+        "word": "dhanañjaya",
+        "transliteration": "dhanañjaya",
+        "meaningEnglish": "Arjun, conqueror of wealth"
+      },
+      {
+        "word": "mayi",
+        "transliteration": "mayi",
+        "meaningEnglish": "in me"
+      },
+      {
+        "word": "sarvam",
+        "transliteration": "sarvam",
+        "meaningEnglish": "all"
+      },
+      {
+        "word": "idam",
+        "transliteration": "idam",
+        "meaningEnglish": "which we see"
+      },
+      {
+        "word": "protam",
+        "transliteration": "protam",
+        "meaningEnglish": "is strung"
+      },
+      {
+        "word": "sūtre",
+        "transliteration": "sūtre",
+        "meaningEnglish": "on a thread"
+      },
+      {
+        "word": "maṇi-gaṇāḥ",
+        "transliteration": "maṇi-gaṇāḥ",
+        "meaningEnglish": "beads"
+      },
+      {
+        "word": "iva",
+        "transliteration": "iva",
+        "meaningEnglish": "like"
+      }
+    ],
+    "wordMeaningsRaw": "mattaḥ—than me; para-taram—superior; na—not; anyat kiñchit—anything else; asti—there is; dhanañjaya—Arjun, conqueror of wealth; mayi—in me; sarvam—all; idam—which we see; protam—is strung; sūtre—on a thread; maṇi-gaṇāḥ—beads; iva—like",
+    "audioId": "7-7",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/7.mp3"
+  },
+  {
+    "id": "7.8",
+    "chapter": 7,
+    "verse": 8,
+    "sanskrit": "रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः।\nप्रणवः सर्ववेदेषु शब्दः खे पौरुषं नृषु।।7.8।।",
+    "transliteration": "raso ’ham apsu kaunteya prabhāsmi śhaśhi-sūryayoḥ\npraṇavaḥ sarva-vedeṣhu śhabdaḥ khe pauruṣhaṁ nṛiṣhu",
+    "translations": {
+      "hindi": {
+        "text": "।।7.8।। हे कुन्तीनन्दन ! जलोंमें रस मैं हूँ, चन्द्रमा और सूर्यमें प्रभा (प्रकाश) मैं हूँ, सम्पूर्ण वेदोंमें प्रणव (ओंकार) मैं हूँ, आकाशमें शब्द और मनुष्योंमें पुरुषार्थ मैं हूँ।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2010"
+      },
+      "english": {
+        "text": "I am the flavor in water, O Arjuna; I am the light in the moon and the sun; I am the syllable Om in all the Vedas, sound in the ether and virility in men.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2014"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "rasaḥ",
+        "transliteration": "rasaḥ",
+        "meaningEnglish": "taste"
+      },
+      {
+        "word": "aham",
+        "transliteration": "aham",
+        "meaningEnglish": "I"
+      },
+      {
+        "word": "apsu",
+        "transliteration": "apsu",
+        "meaningEnglish": "in water"
+      },
+      {
+        "word": "kaunteya",
+        "transliteration": "kaunteya",
+        "meaningEnglish": "Arjun, the son of Kunti"
+      },
+      {
+        "word": "prabhā",
+        "transliteration": "prabhā",
+        "meaningEnglish": "the radiance"
+      },
+      {
+        "word": "asmi",
+        "transliteration": "asmi",
+        "meaningEnglish": "I am"
+      },
+      {
+        "word": "śhaśhi-sūryayoḥ",
+        "transliteration": "śhaśhi-sūryayoḥ",
+        "meaningEnglish": "of the moon and the sun"
+      },
+      {
+        "word": "praṇavaḥ",
+        "transliteration": "praṇavaḥ",
+        "meaningEnglish": "the sacred syllable Om"
+      },
+      {
+        "word": "sarva",
+        "transliteration": "sarva",
+        "meaningEnglish": "in all"
+      },
+      {
+        "word": "vedeṣhu",
+        "transliteration": "vedeṣhu",
+        "meaningEnglish": "Vedas"
+      },
+      {
+        "word": "śhabdaḥ",
+        "transliteration": "śhabdaḥ",
+        "meaningEnglish": "sound"
+      },
+      {
+        "word": "khe",
+        "transliteration": "khe",
+        "meaningEnglish": "in ether"
+      },
+      {
+        "word": "pauruṣham",
+        "transliteration": "pauruṣham",
+        "meaningEnglish": "ability"
+      },
+      {
+        "word": "nṛiṣhu",
+        "transliteration": "nṛiṣhu",
+        "meaningEnglish": "in humans"
+      }
+    ],
+    "wordMeaningsRaw": "rasaḥ—taste; aham—I; apsu—in water; kaunteya—Arjun, the son of Kunti; prabhā—the radiance; asmi—I am; śhaśhi-sūryayoḥ—of the moon and the sun; praṇavaḥ—the sacred syllable Om; sarva—in all; vedeṣhu—Vedas; śhabdaḥ—sound; khe—in ether; pauruṣham—ability; nṛiṣhu—in humans",
+    "audioId": "7-8",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/8.mp3"
+  },
+  {
+    "id": "7.9",
+    "chapter": 7,
+    "verse": 9,
+    "sanskrit": "पुण्यो गन्धः पृथिव्यां च तेजश्चास्मि विभावसौ।\nजीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु।।7.9।।",
+    "transliteration": "puṇyo gandhaḥ pṛithivyāṁ cha tejaśh chāsmi vibhāvasau\njīvanaṁ sarva-bhūteṣhu tapaśh chāsmi tapasviṣhu",
+    "translations": {
+      "hindi": {
+        "text": "।।7.9।। पृथ्वीमें पवित्र गन्ध मैं हूँ, और अग्निमें तेज मैं हूँ, तथा सम्पूर्ण प्राणियोंमें जीवनीशक्ति मैं हूँ और तपस्वियोंमें तपस्या मैं हूँ।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2017"
+      },
+      "english": {
+        "text": "I am the sweet fragrance in the earth and the brilliance in the fire, the life in all beings, and I am the austerity of ascetics.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2021"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "puṇyaḥ",
+        "transliteration": "puṇyaḥ",
+        "meaningEnglish": "pure"
+      },
+      {
+        "word": "gandhaḥ",
+        "transliteration": "gandhaḥ",
+        "meaningEnglish": "fragrance"
+      },
+      {
+        "word": "pṛithivyām",
+        "transliteration": "pṛithivyām",
+        "meaningEnglish": "of the earth"
+      },
+      {
+        "word": "cha",
+        "transliteration": "cha",
+        "meaningEnglish": "and"
+      },
+      {
+        "word": "tejaḥ",
+        "transliteration": "tejaḥ",
+        "meaningEnglish": "brilliance"
+      },
+      {
+        "word": "cha",
+        "transliteration": "cha",
+        "meaningEnglish": "and"
+      },
+      {
+        "word": "asmi",
+        "transliteration": "asmi",
+        "meaningEnglish": "I am"
+      },
+      {
+        "word": "vibhāvasau",
+        "transliteration": "vibhāvasau",
+        "meaningEnglish": "in the fire"
+      },
+      {
+        "word": "jīvanam",
+        "transliteration": "jīvanam",
+        "meaningEnglish": "the life-force"
+      },
+      {
+        "word": "sarva",
+        "transliteration": "sarva",
+        "meaningEnglish": "in all"
+      },
+      {
+        "word": "bhūteṣhu",
+        "transliteration": "bhūteṣhu",
+        "meaningEnglish": "beings"
+      },
+      {
+        "word": "tapaḥ",
+        "transliteration": "tapaḥ",
+        "meaningEnglish": "penance"
+      },
+      {
+        "word": "cha",
+        "transliteration": "cha",
+        "meaningEnglish": "and"
+      },
+      {
+        "word": "asmi",
+        "transliteration": "asmi",
+        "meaningEnglish": "I am"
+      },
+      {
+        "word": "tapasviṣhu",
+        "transliteration": "tapasviṣhu",
+        "meaningEnglish": "of the ascetics"
+      }
+    ],
+    "wordMeaningsRaw": "puṇyaḥ—pure; gandhaḥ—fragrance; pṛithivyām—of the earth; cha—and; tejaḥ—brilliance; cha—and; asmi—I am; vibhāvasau—in the fire; jīvanam—the life-force; sarva—in all; bhūteṣhu—beings; tapaḥ—penance; cha—and; asmi—I am; tapasviṣhu—of the ascetics",
+    "audioId": "7-9",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/9.mp3"
+  },
+  {
+    "id": "7.10",
+    "chapter": 7,
+    "verse": 10,
+    "sanskrit": "बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम्।\nबुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम्।।7.10।।",
+    "transliteration": "bījaṁ māṁ sarva-bhūtānāṁ viddhi pārtha sanātanam\nbuddhir buddhimatām asmi tejas tejasvinām aham",
+    "translations": {
+      "hindi": {
+        "text": "।।7.10।। हे पृथानन्दन ! सम्पूर्ण प्राणियोंका अनादि बीज मुझे जान। बुद्धिमानोंमें बुद्धि और तेजस्वियोंमें तेज मैं हूँ।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2024"
+      },
+      "english": {
+        "text": "Know Me, O Arjuna, as the eternal seed of all beings; I am the intelligence of the intelligent, and the splendour of the splendid objects.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2028"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "bījam",
+        "transliteration": "bījam",
+        "meaningEnglish": "the seed"
+      },
+      {
+        "word": "mām",
+        "transliteration": "mām",
+        "meaningEnglish": "me"
+      },
+      {
+        "word": "sarva-bhūtānām",
+        "transliteration": "sarva-bhūtānām",
+        "meaningEnglish": "of all beings"
+      },
+      {
+        "word": "viddhi",
+        "transliteration": "viddhi",
+        "meaningEnglish": "know"
+      },
+      {
+        "word": "pārtha",
+        "transliteration": "pārtha",
+        "meaningEnglish": "Arjun, the son of Pritha"
+      },
+      {
+        "word": "sanātanam",
+        "transliteration": "sanātanam",
+        "meaningEnglish": "the eternal"
+      },
+      {
+        "word": "buddhiḥ",
+        "transliteration": "buddhiḥ",
+        "meaningEnglish": "intellect"
+      },
+      {
+        "word": "buddhi-matām",
+        "transliteration": "buddhi-matām",
+        "meaningEnglish": "of the intelligent"
+      },
+      {
+        "word": "asmi",
+        "transliteration": "asmi",
+        "meaningEnglish": "(I) am"
+      },
+      {
+        "word": "tejaḥ",
+        "transliteration": "tejaḥ",
+        "meaningEnglish": "splendor"
+      },
+      {
+        "word": "tejasvinām",
+        "transliteration": "tejasvinām",
+        "meaningEnglish": "of the splendid"
+      },
+      {
+        "word": "aham",
+        "transliteration": "aham",
+        "meaningEnglish": "I"
+      }
+    ],
+    "wordMeaningsRaw": "bījam—the seed; mām—me; sarva-bhūtānām—of all beings; viddhi—know; pārtha—Arjun, the son of Pritha; sanātanam—the eternal; buddhiḥ—intellect; buddhi-matām—of the intelligent; asmi—(I) am; tejaḥ—splendor; tejasvinām—of the splendid; aham—I",
+    "audioId": "7-10",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/10.mp3"
+  },
+  {
+    "id": "7.11",
+    "chapter": 7,
+    "verse": 11,
+    "sanskrit": "बलं बलवतां चाहं कामरागविवर्जितम्।\nधर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ।।7.11।।",
+    "transliteration": "balaṁ balavatāṁ chāhaṁ kāma-rāga-vivarjitam\ndharmāviruddho bhūteṣhu kāmo ’smi bharatarṣhabha",
+    "translations": {
+      "hindi": {
+        "text": "।।7.11।। हे भरतवंशियोंमें श्रेष्ठ अर्जुन ! बलवालोंमें काम और रागसे रहित बल मैं हूँ। मनुषयोंमें धर्मसे अविरुद्ध (धर्मयुक्त) काम मैं हूँ।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2031"
+      },
+      "english": {
+        "text": "Of the strong, I am the strength devoid of desire and attachment, and in all beings, I am the desire in accordance with Dharma, O Arjuna.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2035"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "balam",
+        "transliteration": "balam",
+        "meaningEnglish": "strength"
+      },
+      {
+        "word": "bala-vatām",
+        "transliteration": "bala-vatām",
+        "meaningEnglish": "of the strong"
+      },
+      {
+        "word": "cha",
+        "transliteration": "cha",
+        "meaningEnglish": "and"
+      },
+      {
+        "word": "aham",
+        "transliteration": "aham",
+        "meaningEnglish": "I"
+      },
+      {
+        "word": "kāma",
+        "transliteration": "kāma",
+        "meaningEnglish": "desire"
+      },
+      {
+        "word": "rāga",
+        "transliteration": "rāga",
+        "meaningEnglish": "passion"
+      },
+      {
+        "word": "vivarjitam",
+        "transliteration": "vivarjitam",
+        "meaningEnglish": "devoid of"
+      },
+      {
+        "word": "dharma-aviruddhaḥ",
+        "transliteration": "dharma-aviruddhaḥ",
+        "meaningEnglish": "not conflicting with dharma"
+      },
+      {
+        "word": "bhūteṣhu",
+        "transliteration": "bhūteṣhu",
+        "meaningEnglish": "in all beings"
+      },
+      {
+        "word": "kāmaḥ",
+        "transliteration": "kāmaḥ",
+        "meaningEnglish": "sexual activity"
+      },
+      {
+        "word": "asmi",
+        "transliteration": "asmi",
+        "meaningEnglish": "(I) am"
+      },
+      {
+        "word": "bharata-ṛiṣhabha",
+        "transliteration": "bharata-ṛiṣhabha",
+        "meaningEnglish": "Arjun, the best of the Bharats"
+      }
+    ],
+    "wordMeaningsRaw": "balam—strength; bala-vatām—of the strong; cha—and; aham—I; kāma—desire; rāga—passion; vivarjitam—devoid of; dharma-aviruddhaḥ—not conflicting with dharma; bhūteṣhu—in all beings; kāmaḥ—sexual activity; asmi—(I) am; bharata-ṛiṣhabha—Arjun, the best of the Bharats",
+    "audioId": "7-11",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/11.mp3"
+  },
+  {
+    "id": "7.12",
+    "chapter": 7,
+    "verse": 12,
+    "sanskrit": "ये चैव सात्त्विका भावा राजसास्तामसाश्च ये।\nमत्त एवेति तान्विद्धि नत्वहं तेषु ते मयि।।7.12।।",
+    "transliteration": "ye chaiva sāttvikā bhāvā rājasās tāmasāśh cha ye\nmatta eveti tān viddhi na tvahaṁ teṣhu te mayi",
+    "translations": {
+      "hindi": {
+        "text": "।।7.12।। (और तो क्या कहूँ)  जितने भी सात्त्विक, राजस और तामस भाव हैं, वे सब मुझ से ही होते हैं -- ऐसा समझो। पर मैं उनमें और वे मेरेमें नहीं हैं।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2038"
+      },
+      "english": {
+        "text": "Whatever beings (and objects) that are pure, active, and inert, know that they proceed from Me. They are in Me, yet I am not in them.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2042"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "ye",
+        "transliteration": "ye",
+        "meaningEnglish": "whatever"
+      },
+      {
+        "word": "cha",
+        "transliteration": "cha",
+        "meaningEnglish": "and"
+      },
+      {
+        "word": "eva",
+        "transliteration": "eva",
+        "meaningEnglish": "certainly"
+      },
+      {
+        "word": "sāttvikāḥ",
+        "transliteration": "sāttvikāḥ",
+        "meaningEnglish": "in the mode of goodness"
+      },
+      {
+        "word": "bhāvāḥ",
+        "transliteration": "bhāvāḥ",
+        "meaningEnglish": "states of material existence"
+      },
+      {
+        "word": "rājasāḥ",
+        "transliteration": "rājasāḥ",
+        "meaningEnglish": "in the mode of passion"
+      },
+      {
+        "word": "tāmasāḥ",
+        "transliteration": "tāmasāḥ",
+        "meaningEnglish": "in the mode of ignorance"
+      },
+      {
+        "word": "cha",
+        "transliteration": "cha",
+        "meaningEnglish": "and"
+      },
+      {
+        "word": "ye",
+        "transliteration": "ye",
+        "meaningEnglish": "whatever"
+      },
+      {
+        "word": "mattaḥ",
+        "transliteration": "mattaḥ",
+        "meaningEnglish": "from me"
+      },
+      {
+        "word": "eva",
+        "transliteration": "eva",
+        "meaningEnglish": "certainly"
+      },
+      {
+        "word": "iti",
+        "transliteration": "iti",
+        "meaningEnglish": "thus"
+      },
+      {
+        "word": "tān",
+        "transliteration": "tān",
+        "meaningEnglish": "those"
+      },
+      {
+        "word": "viddhi",
+        "transliteration": "viddhi",
+        "meaningEnglish": "know"
+      },
+      {
+        "word": "na",
+        "transliteration": "na",
+        "meaningEnglish": "not"
+      },
+      {
+        "word": "tu",
+        "transliteration": "tu",
+        "meaningEnglish": "but"
+      },
+      {
+        "word": "aham",
+        "transliteration": "aham",
+        "meaningEnglish": "I"
+      },
+      {
+        "word": "teṣhu",
+        "transliteration": "teṣhu",
+        "meaningEnglish": "in them"
+      },
+      {
+        "word": "te",
+        "transliteration": "te",
+        "meaningEnglish": "they"
+      },
+      {
+        "word": "mayi",
+        "transliteration": "mayi",
+        "meaningEnglish": "in me"
+      }
+    ],
+    "wordMeaningsRaw": "ye—whatever; cha—and; eva—certainly; sāttvikāḥ—in the mode of goodness; bhāvāḥ—states of material existence; rājasāḥ—in the mode of passion; tāmasāḥ—in the mode of ignorance; cha—and; ye—whatever; mattaḥ—from me; eva—certainly; iti—thus; tān—those; viddhi—know; na—not; tu—but; aham—I; teṣhu—in them; te—they; mayi—in me",
+    "audioId": "7-12",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/12.mp3"
+  },
+  {
+    "id": "7.13",
+    "chapter": 7,
+    "verse": 13,
+    "sanskrit": "त्रिभिर्गुणमयैर्भावैरेभिः सर्वमिदं जगत्।\nमोहितं नाभिजानाति मामेभ्यः परमव्ययम्।।7.13।।",
+    "transliteration": "tribhir guṇa-mayair bhāvair ebhiḥ sarvam idaṁ jagat\nmohitaṁ nābhijānāti māmebhyaḥ param avyayam",
+    "translations": {
+      "hindi": {
+        "text": "।।7.13।। किन्तु - इन तीनों गुणरूप भावोंसे मोहित यह सब जगत् इन गुणोंसे अतीत अविनाशी मुझे नहीं जानता।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2045"
+      },
+      "english": {
+        "text": "Deluded by these Natures, composed of the three qualities of Nature, all this world does not know Me as distinct from them and immutable.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2049"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "tribhiḥ",
+        "transliteration": "tribhiḥ",
+        "meaningEnglish": "by three"
+      },
+      {
+        "word": "guṇa-mayaiḥ",
+        "transliteration": "guṇa-mayaiḥ",
+        "meaningEnglish": "consisting of the modes of material nature"
+      },
+      {
+        "word": "bhāvaiḥ",
+        "transliteration": "bhāvaiḥ",
+        "meaningEnglish": "states"
+      },
+      {
+        "word": "ebhiḥ",
+        "transliteration": "ebhiḥ",
+        "meaningEnglish": "all these"
+      },
+      {
+        "word": "sarvam",
+        "transliteration": "sarvam",
+        "meaningEnglish": "whole"
+      },
+      {
+        "word": "idam",
+        "transliteration": "idam",
+        "meaningEnglish": "this"
+      },
+      {
+        "word": "jagat",
+        "transliteration": "jagat",
+        "meaningEnglish": "universe"
+      },
+      {
+        "word": "mohitam",
+        "transliteration": "mohitam",
+        "meaningEnglish": "deluded"
+      },
+      {
+        "word": "na",
+        "transliteration": "na",
+        "meaningEnglish": "not"
+      },
+      {
+        "word": "abhijānāti",
+        "transliteration": "abhijānāti",
+        "meaningEnglish": "know"
+      },
+      {
+        "word": "mām",
+        "transliteration": "mām",
+        "meaningEnglish": "me"
+      },
+      {
+        "word": "ebhyaḥ",
+        "transliteration": "ebhyaḥ",
+        "meaningEnglish": "these"
+      },
+      {
+        "word": "param",
+        "transliteration": "param",
+        "meaningEnglish": "the supreme"
+      },
+      {
+        "word": "avyayam",
+        "transliteration": "avyayam",
+        "meaningEnglish": "imperishable"
+      }
+    ],
+    "wordMeaningsRaw": "tribhiḥ—by three; guṇa-mayaiḥ—consisting of the modes of material nature; bhāvaiḥ—states; ebhiḥ—all these; sarvam—whole; idam—this; jagat—universe; mohitam—deluded; na—not; abhijānāti—know; mām—me; ebhyaḥ—these; param—the supreme; avyayam—imperishable",
+    "audioId": "7-13",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/13.mp3"
+  },
+  {
+    "id": "7.14",
+    "chapter": 7,
+    "verse": 14,
+    "sanskrit": "दैवी ह्येषा गुणमयी मम माया दुरत्यया।\nमामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते।।7.14।।",
+    "transliteration": "daivī hyeṣhā guṇa-mayī mama māyā duratyayā\nmām eva ye prapadyante māyām etāṁ taranti te",
+    "translations": {
+      "hindi": {
+        "text": "।।7.14।। क्योंकि मेरी यह गुणमयी दैवी माया बड़ी दुरत्यय है अर्थात् इससे पार पाना बड़ा कठिन है। जो केवल मेरे ही शरण होते हैं, वे इस मायाको तर जाते हैं।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2052"
+      },
+      "english": {
+        "text": "Verily, this divine illusion of Mine, composed of the three qualities, is difficult to cross over; those who take refuge in Me alone, can cross over this illusion.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2056"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "daivī",
+        "transliteration": "daivī",
+        "meaningEnglish": "divine"
+      },
+      {
+        "word": "hi",
+        "transliteration": "hi",
+        "meaningEnglish": "certainly"
+      },
+      {
+        "word": "eṣhā",
+        "transliteration": "eṣhā",
+        "meaningEnglish": "this"
+      },
+      {
+        "word": "guṇa-mayī",
+        "transliteration": "guṇa-mayī",
+        "meaningEnglish": "consisting of the three modes of nature"
+      },
+      {
+        "word": "mama",
+        "transliteration": "mama",
+        "meaningEnglish": "my"
+      },
+      {
+        "word": "māyā",
+        "transliteration": "māyā",
+        "meaningEnglish": "one of God’s energies. It that veils God’s true nature from souls who have not yet attained the eligibility for God-realization"
+      },
+      {
+        "word": "duratyayā",
+        "transliteration": "duratyayā",
+        "meaningEnglish": "very difficult to overcome"
+      },
+      {
+        "word": "mām",
+        "transliteration": "mām",
+        "meaningEnglish": "unto me"
+      },
+      {
+        "word": "eva",
+        "transliteration": "eva",
+        "meaningEnglish": "certainly"
+      },
+      {
+        "word": "ye",
+        "transliteration": "ye",
+        "meaningEnglish": "who"
+      },
+      {
+        "word": "prapadyante",
+        "transliteration": "prapadyante",
+        "meaningEnglish": "surrender"
+      },
+      {
+        "word": "māyām etām",
+        "transliteration": "māyām etām",
+        "meaningEnglish": "this Maya"
+      },
+      {
+        "word": "taranti",
+        "transliteration": "taranti",
+        "meaningEnglish": "cross over"
+      },
+      {
+        "word": "te",
+        "transliteration": "te",
+        "meaningEnglish": "they"
+      }
+    ],
+    "wordMeaningsRaw": "daivī—divine; hi—certainly; eṣhā—this; guṇa-mayī—consisting of the three modes of nature; mama—my; māyā—one of God’s energies. It that veils God’s true nature from souls who have not yet attained the eligibility for God-realization; duratyayā—very difficult to overcome; mām—unto me; eva—certainly; ye—who; prapadyante—surrender; māyām etām—this Maya; taranti—cross over; te—they",
+    "audioId": "7-14",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/14.mp3"
+  },
+  {
+    "id": "7.15",
+    "chapter": 7,
+    "verse": 15,
+    "sanskrit": "न मां दुष्कृतिनो मूढाः प्रपद्यन्ते नराधमाः।\nमाययापहृतज्ञाना आसुरं भावमाश्रिताः।।7.15।।",
+    "transliteration": "na māṁ duṣhkṛitino mūḍhāḥ prapadyante narādhamāḥ\nmāyayāpahṛita-jñānā āsuraṁ bhāvam āśhritāḥ",
+    "translations": {
+      "hindi": {
+        "text": "।।7.15।।   मायाके द्वारा अपहृत ज्ञानवाले, आसुर भावका आश्रय लेनेवाले और मनुष्योंमें महान् नीच तथा पाप-कर्म करनेवाले मूढ़ मनुष्य मेरे शरण नहीं होते।९",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2059"
+      },
+      "english": {
+        "text": "The evil-doers and the deluded, who are the lowest of men, do not seek Me; those whose knowledge is destroyed by illusion follow the ways of demons.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2063"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "na",
+        "transliteration": "na",
+        "meaningEnglish": "not"
+      },
+      {
+        "word": "mām",
+        "transliteration": "mām",
+        "meaningEnglish": "unto me"
+      },
+      {
+        "word": "duṣhkṛitinaḥ",
+        "transliteration": "duṣhkṛitinaḥ",
+        "meaningEnglish": "the evil doers"
+      },
+      {
+        "word": "mūḍhāḥ",
+        "transliteration": "mūḍhāḥ",
+        "meaningEnglish": "the ignorant"
+      },
+      {
+        "word": "prapadyante",
+        "transliteration": "prapadyante",
+        "meaningEnglish": "surrender"
+      },
+      {
+        "word": "nara-adhamāḥ",
+        "transliteration": "nara-adhamāḥ",
+        "meaningEnglish": "one who lazily follows one’s lower nature"
+      },
+      {
+        "word": "māyayā",
+        "transliteration": "māyayā",
+        "meaningEnglish": "by God’s material energy"
+      },
+      {
+        "word": "apahṛita jñānāḥ",
+        "transliteration": "apahṛita jñānāḥ",
+        "meaningEnglish": "those with deluded intellect"
+      },
+      {
+        "word": "āsuram",
+        "transliteration": "āsuram",
+        "meaningEnglish": "demoniac"
+      },
+      {
+        "word": "bhāvam",
+        "transliteration": "bhāvam",
+        "meaningEnglish": "nature"
+      },
+      {
+        "word": "āśhritāḥ",
+        "transliteration": "āśhritāḥ",
+        "meaningEnglish": "surrender"
+      }
+    ],
+    "wordMeaningsRaw": "na—not; mām—unto me; duṣhkṛitinaḥ—the evil doers; mūḍhāḥ—the ignorant; prapadyante—surrender; nara-adhamāḥ—one who lazily follows one’s lower nature; māyayā—by God’s material energy; apahṛita jñānāḥ—those with deluded intellect; āsuram—demoniac; bhāvam—nature; āśhritāḥ—surrender",
+    "audioId": "7-15",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/15.mp3"
+  },
+  {
+    "id": "7.16",
+    "chapter": 7,
+    "verse": 16,
+    "sanskrit": "चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन।\nआर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ।।7.16।।",
+    "transliteration": "chatur-vidhā bhajante māṁ janāḥ sukṛitino ’rjuna\nārto jijñāsur arthārthī jñānī cha bharatarṣhabha",
+    "translations": {
+      "hindi": {
+        "text": "।।7.16।। हे भरतवंशियोंमें श्रेष्ठ अर्जुनव ! पवित्र कर्म करनेवाले अर्थार्थी, आर्त, जिज्ञासु और ज्ञानी अर्थात् प्रेमी -- ये चार प्रकारके मनुष्य मेरा भजन करते हैं अर्थात् मेरे शरण होते हैं।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2066"
+      },
+      "english": {
+        "text": "Four kinds of virtuous men worship Me, O Arjuna, and they are the distressed, the seekers of knowledge, the seekers of wealth, and the wise, O Lord of the Bharatas.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2070"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "chatuḥ-vidhāḥ",
+        "transliteration": "chatuḥ-vidhāḥ",
+        "meaningEnglish": "four kinds"
+      },
+      {
+        "word": "bhajante",
+        "transliteration": "bhajante",
+        "meaningEnglish": "worship"
+      },
+      {
+        "word": "mām",
+        "transliteration": "mām",
+        "meaningEnglish": "me"
+      },
+      {
+        "word": "janāḥ",
+        "transliteration": "janāḥ",
+        "meaningEnglish": "people"
+      },
+      {
+        "word": "su-kṛitinaḥ",
+        "transliteration": "su-kṛitinaḥ",
+        "meaningEnglish": "those who are pious"
+      },
+      {
+        "word": "arjuna",
+        "transliteration": "arjuna",
+        "meaningEnglish": "Arjun"
+      },
+      {
+        "word": "ārtaḥ",
+        "transliteration": "ārtaḥ",
+        "meaningEnglish": "the distressed"
+      },
+      {
+        "word": "jijñāsuḥ",
+        "transliteration": "jijñāsuḥ",
+        "meaningEnglish": "the seekers of knowledge"
+      },
+      {
+        "word": "artha-arthī",
+        "transliteration": "artha-arthī",
+        "meaningEnglish": "the seekers of material gain"
+      },
+      {
+        "word": "jñānī",
+        "transliteration": "jñānī",
+        "meaningEnglish": "those who are situated in knowledge"
+      },
+      {
+        "word": "cha",
+        "transliteration": "cha",
+        "meaningEnglish": "and"
+      },
+      {
+        "word": "bharata-ṛiṣhabha",
+        "transliteration": "bharata-ṛiṣhabha",
+        "meaningEnglish": "The best amongst the Bharatas, Arjun"
+      }
+    ],
+    "wordMeaningsRaw": "chatuḥ-vidhāḥ—four kinds; bhajante—worship; mām—me; janāḥ—people; su-kṛitinaḥ—those who are pious; arjuna—Arjun; ārtaḥ—the distressed; jijñāsuḥ—the seekers of knowledge; artha-arthī—the seekers of material gain; jñānī—those who are situated in knowledge; cha—and; bharata-ṛiṣhabha—The best amongst the Bharatas, Arjun",
+    "audioId": "7-16",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/16.mp3"
+  },
+  {
+    "id": "7.17",
+    "chapter": 7,
+    "verse": 17,
+    "sanskrit": "तेषां ज्ञानी नित्ययुक्त एकभक्ितर्विशिष्यते।\nप्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रियः।।7.17।।",
+    "transliteration": "teṣhāṁ jñānī nitya-yukta eka-bhaktir viśhiṣhyate\npriyo hi jñānino ’tyartham ahaṁ sa cha mama priyaḥ",
+    "translations": {
+      "hindi": {
+        "text": "।।7.17।। उन चार भक्तोंमें मेरेमें निरन्तर लगा हुआ, अनन्यभक्तिवाला ज्ञानी अर्थात् प्रेमी भक्त श्रेष्ठ है; क्योंकि ज्ञानी भक्तको मैं अत्यन्त प्रिय हूँ और वह भी मेरेको अत्यन्त प्रिय है।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2073"
+      },
+      "english": {
+        "text": "Of them, the wise who are ever steadfast and devoted to the One, excel; for I am exceedingly dear to the wise, and they are dear to Me.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2077"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "teṣhām",
+        "transliteration": "teṣhām",
+        "meaningEnglish": "amongst these"
+      },
+      {
+        "word": "jñānī",
+        "transliteration": "jñānī",
+        "meaningEnglish": "those who are situated in knowledge"
+      },
+      {
+        "word": "nitya-yuktaḥ",
+        "transliteration": "nitya-yuktaḥ",
+        "meaningEnglish": "ever steadfast"
+      },
+      {
+        "word": "eka",
+        "transliteration": "eka",
+        "meaningEnglish": "exclusively"
+      },
+      {
+        "word": "bhaktiḥ",
+        "transliteration": "bhaktiḥ",
+        "meaningEnglish": "devotion"
+      },
+      {
+        "word": "viśhiṣhyate",
+        "transliteration": "viśhiṣhyate",
+        "meaningEnglish": "highest"
+      },
+      {
+        "word": "priyaḥ",
+        "transliteration": "priyaḥ",
+        "meaningEnglish": "very dear"
+      },
+      {
+        "word": "hi",
+        "transliteration": "hi",
+        "meaningEnglish": "certainly"
+      },
+      {
+        "word": "jñāninaḥ",
+        "transliteration": "jñāninaḥ",
+        "meaningEnglish": "to the person in knowledge"
+      },
+      {
+        "word": "atyartham",
+        "transliteration": "atyartham",
+        "meaningEnglish": "highly"
+      },
+      {
+        "word": "aham",
+        "transliteration": "aham",
+        "meaningEnglish": "I"
+      },
+      {
+        "word": "saḥ",
+        "transliteration": "saḥ",
+        "meaningEnglish": "he"
+      },
+      {
+        "word": "cha",
+        "transliteration": "cha",
+        "meaningEnglish": "and"
+      },
+      {
+        "word": "mama",
+        "transliteration": "mama",
+        "meaningEnglish": "to me"
+      },
+      {
+        "word": "priyaḥ",
+        "transliteration": "priyaḥ",
+        "meaningEnglish": "dear"
+      }
+    ],
+    "wordMeaningsRaw": "teṣhām—amongst these; jñānī—those who are situated in knowledge; nitya-yuktaḥ—ever steadfast; eka—exclusively; bhaktiḥ—devotion; viśhiṣhyate—highest; priyaḥ—very dear; hi—certainly; jñāninaḥ—to the person in knowledge; atyartham—highly; aham—I; saḥ—he; cha—and; mama—to me; priyaḥ—dear",
+    "audioId": "7-17",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/17.mp3"
+  },
+  {
+    "id": "7.18",
+    "chapter": 7,
+    "verse": 18,
+    "sanskrit": "उदाराः सर्व एवैते ज्ञानी त्वात्मैव मे मतम्।\nआस्थितः स हि युक्तात्मा मामेवानुत्तमां गतिम्।।7.18।।",
+    "transliteration": "udārāḥ sarva evaite jñānī tvātmaiva me matam\nāsthitaḥ sa hi yuktātmā mām evānuttamāṁ gatim",
+    "translations": {
+      "hindi": {
+        "text": "।।7.18।। पहले कहे हुए सब-के-सब भक्त बड़े उदार (श्रेष्ठ भाववाले) हैं। परन्तु ज्ञानी (प्रेमी) तो मेरा स्वरूप ही है -- ऐसा मेरा मत है। कारण कि वह युक्तात्मा है और जिससे श्रेष्ठ दूसरी कोई गति नहीं है, ऐसे मेरेमें ही दृढ़ आस्थावाला है।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2080"
+      },
+      "english": {
+        "text": "Indeed, all these are noble; however, I consider the wise man as My very Self; for, he is steadfast in mind and established in Me alone as the supreme goal.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2084"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "udārāḥ",
+        "transliteration": "udārāḥ",
+        "meaningEnglish": "noble"
+      },
+      {
+        "word": "sarve",
+        "transliteration": "sarve",
+        "meaningEnglish": "all"
+      },
+      {
+        "word": "eva",
+        "transliteration": "eva",
+        "meaningEnglish": "indeed"
+      },
+      {
+        "word": "ete",
+        "transliteration": "ete",
+        "meaningEnglish": "these"
+      },
+      {
+        "word": "jñānī",
+        "transliteration": "jñānī",
+        "meaningEnglish": "those in knowledge"
+      },
+      {
+        "word": "tu",
+        "transliteration": "tu",
+        "meaningEnglish": "but"
+      },
+      {
+        "word": "ātmā eva",
+        "transliteration": "ātmā eva",
+        "meaningEnglish": "my very self"
+      },
+      {
+        "word": "me",
+        "transliteration": "me",
+        "meaningEnglish": "my"
+      },
+      {
+        "word": "matam",
+        "transliteration": "matam",
+        "meaningEnglish": "opinion"
+      },
+      {
+        "word": "āsthitaḥ",
+        "transliteration": "āsthitaḥ",
+        "meaningEnglish": "situated"
+      },
+      {
+        "word": "saḥ",
+        "transliteration": "saḥ",
+        "meaningEnglish": "he"
+      },
+      {
+        "word": "hi",
+        "transliteration": "hi",
+        "meaningEnglish": "certainly"
+      },
+      {
+        "word": "yukta-ātmā",
+        "transliteration": "yukta-ātmā",
+        "meaningEnglish": "those who are united"
+      },
+      {
+        "word": "mām",
+        "transliteration": "mām",
+        "meaningEnglish": "in me"
+      },
+      {
+        "word": "eva",
+        "transliteration": "eva",
+        "meaningEnglish": "certainly"
+      },
+      {
+        "word": "anuttamām",
+        "transliteration": "anuttamām",
+        "meaningEnglish": "the supreme"
+      },
+      {
+        "word": "gatim",
+        "transliteration": "gatim",
+        "meaningEnglish": "goal"
+      }
+    ],
+    "wordMeaningsRaw": "udārāḥ—noble; sarve—all; eva—indeed; ete—these; jñānī—those in knowledge; tu—but; ātmā eva—my very self; me—my; matam—opinion; āsthitaḥ—situated; saḥ—he; hi—certainly; yukta-ātmā—those who are united; mām—in me; eva—certainly; anuttamām—the supreme; gatim—goal",
+    "audioId": "7-18",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/18.mp3"
+  },
+  {
+    "id": "7.19",
+    "chapter": 7,
+    "verse": 19,
+    "sanskrit": "बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते।\nवासुदेवः सर्वमिति स महात्मा सुदुर्लभः।।7.19।।",
+    "transliteration": "bahūnāṁ janmanām ante jñānavān māṁ prapadyate\nvāsudevaḥ sarvam iti sa mahātmā su-durlabhaḥ",
+    "translations": {
+      "hindi": {
+        "text": "।।7.19।। बहुत जन्मोंके अन्तमें अर्थात् मनुष्यजन्ममें 'सब कुछ परमात्मा ही है', ऐसा जो ज्ञानवान् मेरे शरण होता है, वह महात्मा अत्यन्त दुर्लभ है।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2087"
+      },
+      "english": {
+        "text": "At the end of many births, the wise man comes to Me, realizing that all this is Vaasudeva (the innermost Self); such a great soul (Mahatma) is very hard to find.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2091"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "bahūnām",
+        "transliteration": "bahūnām",
+        "meaningEnglish": "many"
+      },
+      {
+        "word": "janmanām",
+        "transliteration": "janmanām",
+        "meaningEnglish": "births"
+      },
+      {
+        "word": "ante",
+        "transliteration": "ante",
+        "meaningEnglish": "after"
+      },
+      {
+        "word": "jñāna-vān",
+        "transliteration": "jñāna-vān",
+        "meaningEnglish": "one who is endowed with knowledge"
+      },
+      {
+        "word": "mām",
+        "transliteration": "mām",
+        "meaningEnglish": "unto me"
+      },
+      {
+        "word": "prapadyate",
+        "transliteration": "prapadyate",
+        "meaningEnglish": "surrenders"
+      },
+      {
+        "word": "vāsudevaḥ",
+        "transliteration": "vāsudevaḥ",
+        "meaningEnglish": "Shree Krishna, the son of Vasudev"
+      },
+      {
+        "word": "sarvam",
+        "transliteration": "sarvam",
+        "meaningEnglish": "all"
+      },
+      {
+        "word": "iti",
+        "transliteration": "iti",
+        "meaningEnglish": "that"
+      },
+      {
+        "word": "saḥ",
+        "transliteration": "saḥ",
+        "meaningEnglish": "that"
+      },
+      {
+        "word": "mahā-ātmā",
+        "transliteration": "mahā-ātmā",
+        "meaningEnglish": "great soul"
+      },
+      {
+        "word": "su-durlabhaḥ",
+        "transliteration": "su-durlabhaḥ",
+        "meaningEnglish": "very rare"
+      }
+    ],
+    "wordMeaningsRaw": "bahūnām—many; janmanām—births; ante—after; jñāna-vān—one who is endowed with knowledge; mām—unto me; prapadyate—surrenders; vāsudevaḥ—Shree Krishna, the son of Vasudev; sarvam—all; iti—that; saḥ—that; mahā-ātmā—great soul; su-durlabhaḥ—very rare",
+    "audioId": "7-19",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/19.mp3"
+  },
+  {
+    "id": "7.20",
+    "chapter": 7,
+    "verse": 20,
+    "sanskrit": "कामैस्तैस्तैर्हृतज्ञानाः प्रपद्यन्तेऽन्यदेवताः।\nतं तं नियममास्थाय प्रकृत्या नियताः स्वया।।7.20।।",
+    "transliteration": "kāmais tais tair hṛita-jñānāḥ prapadyante ’nya-devatāḥ\ntaṁ taṁ niyamam āsthāya prakṛityā niyatāḥ svayā",
+    "translations": {
+      "hindi": {
+        "text": "।।7.20।। उन-उन कामनाओंसे जिनका ज्ञान अपहृत हो गया है, ऐसे वे मनुष्य अपनी-अपनी प्रकृतिसे नियन्त्रित होकर (देवताओंके) उन-उन नियमोंको धारण करते हुए उन-उन देवताओंके शरण हो जाते हैं।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2094"
+      },
+      "english": {
+        "text": "Those whose wisdom has been taken away by this or that desire, go to other gods, following this or that rite, led by their own nature.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2098"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "kāmaiḥ",
+        "transliteration": "kāmaiḥ",
+        "meaningEnglish": "by material desires"
+      },
+      {
+        "word": "taiḥ taiḥ",
+        "transliteration": "taiḥ taiḥ",
+        "meaningEnglish": "by various"
+      },
+      {
+        "word": "hṛita-jñānāḥ",
+        "transliteration": "hṛita-jñānāḥ",
+        "meaningEnglish": "whose knowledge has been carried away"
+      },
+      {
+        "word": "prapadyante",
+        "transliteration": "prapadyante",
+        "meaningEnglish": "surrender"
+      },
+      {
+        "word": "anya",
+        "transliteration": "anya",
+        "meaningEnglish": "to other"
+      },
+      {
+        "word": "devatāḥ",
+        "transliteration": "devatāḥ",
+        "meaningEnglish": "celestial gods"
+      },
+      {
+        "word": "tam tam",
+        "transliteration": "tam tam",
+        "meaningEnglish": "the various"
+      },
+      {
+        "word": "niyamam",
+        "transliteration": "niyamam",
+        "meaningEnglish": "rules and regulations"
+      },
+      {
+        "word": "āsthāya",
+        "transliteration": "āsthāya",
+        "meaningEnglish": "following"
+      },
+      {
+        "word": "prakṛityā",
+        "transliteration": "prakṛityā",
+        "meaningEnglish": "by nature"
+      },
+      {
+        "word": "niyatāḥ",
+        "transliteration": "niyatāḥ",
+        "meaningEnglish": "controlled"
+      },
+      {
+        "word": "svayā",
+        "transliteration": "svayā",
+        "meaningEnglish": "by their own"
+      }
+    ],
+    "wordMeaningsRaw": "kāmaiḥ—by material desires; taiḥ taiḥ—by various; hṛita-jñānāḥ—whose knowledge has been carried away; prapadyante—surrender; anya—to other; devatāḥ—celestial gods; tam tam—the various; niyamam—rules and regulations; āsthāya—following; prakṛityā—by nature; niyatāḥ—controlled; svayā—by their own",
+    "audioId": "7-20",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/20.mp3"
+  },
+  {
+    "id": "7.21",
+    "chapter": 7,
+    "verse": 21,
+    "sanskrit": "यो यो यां यां तनुं भक्तः श्रद्धयार्चितुमिच्छति।\nतस्य तस्याचलां श्रद्धां तामेव विदधाम्यहम्।।7.21।।",
+    "transliteration": "yo yo yāṁ yāṁ tanuṁ bhaktaḥ śhraddhayārchitum ichchhati\ntasya tasyāchalāṁ śhraddhāṁ tām eva vidadhāmyaham",
+    "translations": {
+      "hindi": {
+        "text": "।।7.21।। जो-जो भक्त जिस-जिस देवताका श्रद्धापूर्वक पूजन करना चाहता है, उस-उस देवताके प्रति मैं उसकी श्रद्धाको दृढ़ कर देता हूँ।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2101"
+      },
+      "english": {
+        "text": "Whatever form any devotee desires to worship with faith, I make that same faith of his firm and unflinching.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2105"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "yaḥ yaḥ",
+        "transliteration": "yaḥ yaḥ",
+        "meaningEnglish": "whoever"
+      },
+      {
+        "word": "yām yām",
+        "transliteration": "yām yām",
+        "meaningEnglish": "whichever"
+      },
+      {
+        "word": "tanum",
+        "transliteration": "tanum",
+        "meaningEnglish": "form"
+      },
+      {
+        "word": "bhaktaḥ",
+        "transliteration": "bhaktaḥ",
+        "meaningEnglish": "devotee"
+      },
+      {
+        "word": "śhraddhayā",
+        "transliteration": "śhraddhayā",
+        "meaningEnglish": "with faith"
+      },
+      {
+        "word": "architum",
+        "transliteration": "architum",
+        "meaningEnglish": "to worship"
+      },
+      {
+        "word": "ichchhati",
+        "transliteration": "ichchhati",
+        "meaningEnglish": "desires"
+      },
+      {
+        "word": "tasya tasya",
+        "transliteration": "tasya tasya",
+        "meaningEnglish": "to him"
+      },
+      {
+        "word": "achalām",
+        "transliteration": "achalām",
+        "meaningEnglish": "steady"
+      },
+      {
+        "word": "śhraddhām",
+        "transliteration": "śhraddhām",
+        "meaningEnglish": "faith"
+      },
+      {
+        "word": "tām",
+        "transliteration": "tām",
+        "meaningEnglish": "in that"
+      },
+      {
+        "word": "eva",
+        "transliteration": "eva",
+        "meaningEnglish": "certainly"
+      },
+      {
+        "word": "vidadhāmi",
+        "transliteration": "vidadhāmi",
+        "meaningEnglish": "bestow"
+      },
+      {
+        "word": "aham",
+        "transliteration": "aham",
+        "meaningEnglish": "I"
+      }
+    ],
+    "wordMeaningsRaw": "yaḥ yaḥ—whoever; yām yām—whichever; tanum—form; bhaktaḥ—devotee; śhraddhayā—with faith; architum—to worship; ichchhati—desires; tasya tasya—to him; achalām—steady; śhraddhām—faith; tām—in that; eva—certainly; vidadhāmi—bestow; aham—I",
+    "audioId": "7-21",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/21.mp3"
+  },
+  {
+    "id": "7.22",
+    "chapter": 7,
+    "verse": 22,
+    "sanskrit": "स तया श्रद्धया युक्तस्तस्याराधनमीहते।\nलभते च ततः कामान्मयैव विहितान् हि तान्।।7.22।।",
+    "transliteration": "sa tayā śhraddhayā yuktas tasyārādhanam īhate\nlabhate cha tataḥ kāmān mayaiva vihitān hi tān",
+    "translations": {
+      "hindi": {
+        "text": "।।7.22।। उस (मेरे द्वारा दृढ़ की हुई) श्रद्धासे युक्त होकर वह मनुष्य (सकामभावपूर्वक) उस देवताकी उपासना करता है और उसकी वह कामना पूरी भी होती है; परन्तु वह कामना-पूर्ति मेरे द्वारा  विहित की हुई होती है।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2108"
+      },
+      "english": {
+        "text": "Endowed with that faith, he engages in the worship of that form and obtains his desired outcome, which is ordained by Me alone.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2112"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "saḥ",
+        "transliteration": "saḥ",
+        "meaningEnglish": "he"
+      },
+      {
+        "word": "tayā",
+        "transliteration": "tayā",
+        "meaningEnglish": "with that"
+      },
+      {
+        "word": "śhraddhayā",
+        "transliteration": "śhraddhayā",
+        "meaningEnglish": "faith"
+      },
+      {
+        "word": "yuktaḥ",
+        "transliteration": "yuktaḥ",
+        "meaningEnglish": "endowed with"
+      },
+      {
+        "word": "tasya",
+        "transliteration": "tasya",
+        "meaningEnglish": "of that"
+      },
+      {
+        "word": "ārādhanam",
+        "transliteration": "ārādhanam",
+        "meaningEnglish": "worship"
+      },
+      {
+        "word": "īhate",
+        "transliteration": "īhate",
+        "meaningEnglish": "tries to engange in"
+      },
+      {
+        "word": "labhate",
+        "transliteration": "labhate",
+        "meaningEnglish": "obtains"
+      },
+      {
+        "word": "cha",
+        "transliteration": "cha",
+        "meaningEnglish": "and"
+      },
+      {
+        "word": "tataḥ",
+        "transliteration": "tataḥ",
+        "meaningEnglish": "from that"
+      },
+      {
+        "word": "kāmān",
+        "transliteration": "kāmān",
+        "meaningEnglish": "desires"
+      },
+      {
+        "word": "mayā",
+        "transliteration": "mayā",
+        "meaningEnglish": "by me"
+      },
+      {
+        "word": "eva",
+        "transliteration": "eva",
+        "meaningEnglish": "alone"
+      },
+      {
+        "word": "vihitān",
+        "transliteration": "vihitān",
+        "meaningEnglish": "granted"
+      },
+      {
+        "word": "hi",
+        "transliteration": "hi",
+        "meaningEnglish": "certainly"
+      },
+      {
+        "word": "tān",
+        "transliteration": "tān",
+        "meaningEnglish": "those"
+      }
+    ],
+    "wordMeaningsRaw": "saḥ—he; tayā—with that; śhraddhayā—faith; yuktaḥ—endowed with; tasya—of that; ārādhanam—worship; īhate—tries to engange in; labhate—obtains; cha—and; tataḥ—from that; kāmān—desires; mayā—by me; eva—alone; vihitān—granted; hi—certainly; tān—those",
+    "audioId": "7-22",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/22.mp3"
+  },
+  {
+    "id": "7.23",
+    "chapter": 7,
+    "verse": 23,
+    "sanskrit": "अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसाम्।\nदेवान्देवयजो यान्ति मद्भक्ता यान्ति मामपि।।7.23।।",
+    "transliteration": "antavat tu phalaṁ teṣhāṁ tad bhavatyalpa-medhasām\ndevān deva-yajo yānti mad-bhaktā yānti mām api",
+    "translations": {
+      "hindi": {
+        "text": "।।7.23।। परन्तु उन अल्पबुद्धिवाले मनुष्योंको उन देवताओंकी आराधनाका फल अन्तवाला (नाशवान्) ही मिलता है। देवताओंका पूजन करनेवाले देवताओंको प्राप्त होते हैं और मेरे भक्त मेरे ही प्राप्त होते हैं।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2115"
+      },
+      "english": {
+        "text": "Verily, the reward (fruit) that accrues to those men of small intelligence is finite. The worshippers of the gods go to them, whereas My devotees come to Me.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2119"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "anta-vat",
+        "transliteration": "anta-vat",
+        "meaningEnglish": "perishable"
+      },
+      {
+        "word": "tu",
+        "transliteration": "tu",
+        "meaningEnglish": "but"
+      },
+      {
+        "word": "phalam",
+        "transliteration": "phalam",
+        "meaningEnglish": "fruit"
+      },
+      {
+        "word": "teṣhām",
+        "transliteration": "teṣhām",
+        "meaningEnglish": "by them"
+      },
+      {
+        "word": "tat",
+        "transliteration": "tat",
+        "meaningEnglish": "that"
+      },
+      {
+        "word": "bhavati",
+        "transliteration": "bhavati",
+        "meaningEnglish": "is"
+      },
+      {
+        "word": "alpa-medhasām",
+        "transliteration": "alpa-medhasām",
+        "meaningEnglish": "people of small understanding"
+      },
+      {
+        "word": "devān",
+        "transliteration": "devān",
+        "meaningEnglish": "to the celestial gods"
+      },
+      {
+        "word": "deva-yajaḥ",
+        "transliteration": "deva-yajaḥ",
+        "meaningEnglish": "the worshipers of the celestial gods"
+      },
+      {
+        "word": "yānti",
+        "transliteration": "yānti",
+        "meaningEnglish": "go"
+      },
+      {
+        "word": "mat",
+        "transliteration": "mat",
+        "meaningEnglish": "my"
+      },
+      {
+        "word": "bhaktāḥ",
+        "transliteration": "bhaktāḥ",
+        "meaningEnglish": "devotees"
+      },
+      {
+        "word": "yānti",
+        "transliteration": "yānti",
+        "meaningEnglish": "go"
+      },
+      {
+        "word": "mām",
+        "transliteration": "mām",
+        "meaningEnglish": "to me"
+      },
+      {
+        "word": "api",
+        "transliteration": "api",
+        "meaningEnglish": "whereas"
+      }
+    ],
+    "wordMeaningsRaw": "anta-vat—perishable; tu—but; phalam—fruit; teṣhām—by them; tat—that; bhavati—is; alpa-medhasām—people of small understanding; devān—to the celestial gods; deva-yajaḥ—the worshipers of the celestial gods; yānti—go; mat—my; bhaktāḥ—devotees; yānti—go; mām—to me; api—whereas",
+    "audioId": "7-23",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/23.mp3"
+  },
+  {
+    "id": "7.24",
+    "chapter": 7,
+    "verse": 24,
+    "sanskrit": "अव्यक्तं व्यक्ितमापन्नं मन्यन्ते मामबुद्धयः।\nपरं भावमजानन्तो ममाव्ययमनुत्तमम्।।7.24।।",
+    "transliteration": "avyaktaṁ vyaktim āpannaṁ manyante mām abuddhayaḥ\nparaṁ bhāvam ajānanto mamāvyayam anuttamam",
+    "translations": {
+      "hindi": {
+        "text": "।।7.24।। बुद्धिहीन मनुष्य मेरे सर्वश्रेष्ठ अविनाशी परमभावको न जानते हुए अव्यक्त (मन-इन्द्रियोंसे पर) मुझ सच्चिदानन्दघन परमात्माको मनुष्यकी तरह ही शरीर धारण करनेवाला मानते हैं।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2122"
+      },
+      "english": {
+        "text": "The foolish think of Me, the Unmanifest, as having manifestation, not knowing My higher, immutable, and most excellent nature.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2126"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "avyaktam",
+        "transliteration": "avyaktam",
+        "meaningEnglish": "formless"
+      },
+      {
+        "word": "vyaktim",
+        "transliteration": "vyaktim",
+        "meaningEnglish": "possessing a personality"
+      },
+      {
+        "word": "āpannam",
+        "transliteration": "āpannam",
+        "meaningEnglish": "to have assumed"
+      },
+      {
+        "word": "manyante",
+        "transliteration": "manyante",
+        "meaningEnglish": "think"
+      },
+      {
+        "word": "mām",
+        "transliteration": "mām",
+        "meaningEnglish": "me"
+      },
+      {
+        "word": "abuddhayaḥ",
+        "transliteration": "abuddhayaḥ",
+        "meaningEnglish": "less intelligent"
+      },
+      {
+        "word": "param",
+        "transliteration": "param",
+        "meaningEnglish": "Supreme"
+      },
+      {
+        "word": "bhāvam",
+        "transliteration": "bhāvam",
+        "meaningEnglish": "nature"
+      },
+      {
+        "word": "ajānantaḥ",
+        "transliteration": "ajānantaḥ",
+        "meaningEnglish": "not understanding"
+      },
+      {
+        "word": "mama",
+        "transliteration": "mama",
+        "meaningEnglish": "my"
+      },
+      {
+        "word": "avyayam",
+        "transliteration": "avyayam",
+        "meaningEnglish": "imperishable"
+      },
+      {
+        "word": "anuttamam",
+        "transliteration": "anuttamam",
+        "meaningEnglish": "excellent"
+      }
+    ],
+    "wordMeaningsRaw": "avyaktam—formless; vyaktim—possessing a personality; āpannam—to have assumed; manyante—think; mām—me; abuddhayaḥ—less intelligent; param—Supreme; bhāvam—nature; ajānantaḥ—not understanding; mama—my; avyayam—imperishable; anuttamam—excellent",
+    "audioId": "7-24",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/24.mp3"
+  },
+  {
+    "id": "7.25",
+    "chapter": 7,
+    "verse": 25,
+    "sanskrit": "नाहं प्रकाशः सर्वस्य योगमायासमावृतः।\nमूढोऽयं नाभिजानाति लोको मामजमव्ययम्।।7.25।।",
+    "transliteration": "nāhaṁ prakāśhaḥ sarvasya yoga-māyā-samāvṛitaḥ\nmūḍho ’yaṁ nābhijānāti loko mām ajam avyayam",
+    "translations": {
+      "hindi": {
+        "text": "।।7.25।। जो मूढ़ मनुष्य मेरेको अज और अविनाशी ठीक तरहसे नहीं जानते (मानते), उन सबके सामने योगमायासे अच्छी तरहसे आवृत हुआ मैं प्रकट नहीं होता।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2129"
+      },
+      "english": {
+        "text": "I am not manifest to all, veiled as I am by the Yoga-Maya. This deluded world does not know Me, who am unborn and imperishable.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2133"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "na",
+        "transliteration": "na",
+        "meaningEnglish": "not"
+      },
+      {
+        "word": "aham",
+        "transliteration": "aham",
+        "meaningEnglish": "I"
+      },
+      {
+        "word": "prakāśhaḥ",
+        "transliteration": "prakāśhaḥ",
+        "meaningEnglish": "manifest"
+      },
+      {
+        "word": "sarvasya",
+        "transliteration": "sarvasya",
+        "meaningEnglish": "to everyone"
+      },
+      {
+        "word": "yoga-māyā",
+        "transliteration": "yoga-māyā",
+        "meaningEnglish": "God’s supreme (divine) energy"
+      },
+      {
+        "word": "samāvṛitaḥ",
+        "transliteration": "samāvṛitaḥ",
+        "meaningEnglish": "veiled"
+      },
+      {
+        "word": "mūḍhaḥ",
+        "transliteration": "mūḍhaḥ",
+        "meaningEnglish": "deluded"
+      },
+      {
+        "word": "ayam",
+        "transliteration": "ayam",
+        "meaningEnglish": "these"
+      },
+      {
+        "word": "na",
+        "transliteration": "na",
+        "meaningEnglish": "not"
+      },
+      {
+        "word": "abhijānāti",
+        "transliteration": "abhijānāti",
+        "meaningEnglish": "know"
+      },
+      {
+        "word": "lokaḥ",
+        "transliteration": "lokaḥ",
+        "meaningEnglish": "persons"
+      },
+      {
+        "word": "mām",
+        "transliteration": "mām",
+        "meaningEnglish": "me"
+      },
+      {
+        "word": "ajam",
+        "transliteration": "ajam",
+        "meaningEnglish": "unborn"
+      },
+      {
+        "word": "avyayam",
+        "transliteration": "avyayam",
+        "meaningEnglish": "immutable"
+      }
+    ],
+    "wordMeaningsRaw": "na—not; aham—I; prakāśhaḥ—manifest; sarvasya—to everyone; yoga-māyā—God’s supreme (divine) energy; samāvṛitaḥ—veiled; mūḍhaḥ—deluded; ayam—these; na—not; abhijānāti—know; lokaḥ—persons; mām—me; ajam—unborn; avyayam—immutable",
+    "audioId": "7-25",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/25.mp3"
+  },
+  {
+    "id": "7.26",
+    "chapter": 7,
+    "verse": 26,
+    "sanskrit": "वेदाहं समतीतानि वर्तमानानि चार्जुन।\nभविष्याणि च भूतानि मां तु वेद न कश्चन।।7.26।।",
+    "transliteration": "vedāhaṁ samatītāni vartamānāni chārjuna\nbhaviṣhyāṇi cha bhūtāni māṁ tu veda na kaśhchana",
+    "translations": {
+      "hindi": {
+        "text": "।।7.26।। हे अर्जुन ! जो प्राणी भूतकालमें हो चुके हैं, तथा जो वर्तमानमें हैं और जो भविष्यमें होंगे, उन सब प्राणियोंको तो मैं जानता हूँ; परन्तु मेरेको कोई (मूढ़ मनुष्य) नहीं जानता।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2136"
+      },
+      "english": {
+        "text": "I know, O Arjuna, the beings of the past, the present, and the future; however, no one knows Me.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2140"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "veda",
+        "transliteration": "veda",
+        "meaningEnglish": "know"
+      },
+      {
+        "word": "aham",
+        "transliteration": "aham",
+        "meaningEnglish": "I"
+      },
+      {
+        "word": "samatītāni",
+        "transliteration": "samatītāni",
+        "meaningEnglish": "the past"
+      },
+      {
+        "word": "vartamānāni",
+        "transliteration": "vartamānāni",
+        "meaningEnglish": "the present"
+      },
+      {
+        "word": "cha",
+        "transliteration": "cha",
+        "meaningEnglish": "and"
+      },
+      {
+        "word": "arjuna",
+        "transliteration": "arjuna",
+        "meaningEnglish": "Arjun"
+      },
+      {
+        "word": "bhaviṣhyāṇi",
+        "transliteration": "bhaviṣhyāṇi",
+        "meaningEnglish": "the future"
+      },
+      {
+        "word": "cha",
+        "transliteration": "cha",
+        "meaningEnglish": "also"
+      },
+      {
+        "word": "bhūtāni",
+        "transliteration": "bhūtāni",
+        "meaningEnglish": "all living beings"
+      },
+      {
+        "word": "mām",
+        "transliteration": "mām",
+        "meaningEnglish": "me"
+      },
+      {
+        "word": "tu",
+        "transliteration": "tu",
+        "meaningEnglish": "but"
+      },
+      {
+        "word": "veda",
+        "transliteration": "veda",
+        "meaningEnglish": "knows"
+      },
+      {
+        "word": "na kaśhchana",
+        "transliteration": "na kaśhchana",
+        "meaningEnglish": "no one"
+      }
+    ],
+    "wordMeaningsRaw": "veda—know; aham—I; samatītāni—the past; vartamānāni—the present; cha—and; arjuna—Arjun; bhaviṣhyāṇi—the future; cha—also; bhūtāni—all living beings; mām—me; tu—but; veda—knows; na kaśhchana—no one",
+    "audioId": "7-26",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/26.mp3"
+  },
+  {
+    "id": "7.27",
+    "chapter": 7,
+    "verse": 27,
+    "sanskrit": "इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत।\nसर्वभूतानि संमोहं सर्गे यान्ति परन्तप।।7.27।।",
+    "transliteration": "ichchhā-dveṣha-samutthena dvandva-mohena bhārata\nsarva-bhūtāni sammohaṁ sarge yānti parantapa",
+    "translations": {
+      "hindi": {
+        "text": "।।7.27।। हे भरतवंशमें उत्पन्न परंतप ! इच्छा (राग) और द्वेषसे उत्पन्न होनेवाले द्वन्द्व-मोहसे मोहित सम्पूर्ण प्राणी संसारमें मूढ़ताको अर्थात् जन्म-मरणको प्राप्त हो रहे हैं।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2143"
+      },
+      "english": {
+        "text": "O Bharata, all beings are subject to delusion at birth due to the delusion of the pairs of opposites arising from desire and aversion, O Parantapa.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2147"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "ichchhā",
+        "transliteration": "ichchhā",
+        "meaningEnglish": "desire"
+      },
+      {
+        "word": "dveṣha",
+        "transliteration": "dveṣha",
+        "meaningEnglish": "aversion"
+      },
+      {
+        "word": "samutthena",
+        "transliteration": "samutthena",
+        "meaningEnglish": "arise from"
+      },
+      {
+        "word": "dvandva",
+        "transliteration": "dvandva",
+        "meaningEnglish": "of duality"
+      },
+      {
+        "word": "mohena",
+        "transliteration": "mohena",
+        "meaningEnglish": "from the illusion"
+      },
+      {
+        "word": "bhārata",
+        "transliteration": "bhārata",
+        "meaningEnglish": "Arjun, descendant of Bharat"
+      },
+      {
+        "word": "sarva",
+        "transliteration": "sarva",
+        "meaningEnglish": "all"
+      },
+      {
+        "word": "bhūtāni",
+        "transliteration": "bhūtāni",
+        "meaningEnglish": "living beings"
+      },
+      {
+        "word": "sammoham",
+        "transliteration": "sammoham",
+        "meaningEnglish": "into delusion"
+      },
+      {
+        "word": "sarge",
+        "transliteration": "sarge",
+        "meaningEnglish": "since birth"
+      },
+      {
+        "word": "yānti",
+        "transliteration": "yānti",
+        "meaningEnglish": "enter"
+      },
+      {
+        "word": "parantapa",
+        "transliteration": "parantapa",
+        "meaningEnglish": "Arjun, conqueror of enemies"
+      }
+    ],
+    "wordMeaningsRaw": "ichchhā—desire; dveṣha—aversion; samutthena—arise from; dvandva—of duality; mohena—from the illusion; bhārata—Arjun, descendant of Bharat; sarva—all; bhūtāni—living beings; sammoham—into delusion; sarge—since birth; yānti—enter; parantapa—Arjun, conqueror of enemies",
+    "audioId": "7-27",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/27.mp3"
+  },
+  {
+    "id": "7.28",
+    "chapter": 7,
+    "verse": 28,
+    "sanskrit": "येषां त्वन्तगतं पापं जनानां पुण्यकर्मणाम्।\nते द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रताः।।7.28।।",
+    "transliteration": "yeṣhāṁ tvanta-gataṁ pāpaṁ janānāṁ puṇya-karmaṇām\nte dvandva-moha-nirmuktā bhajante māṁ dṛiḍha-vratāḥ",
+    "translations": {
+      "hindi": {
+        "text": "।।7.28।। परन्तु जिन पुण्यकर्मा मनुष्योंके पाप नष्ट गये हैं, वे द्वन्द्वमोहसे रहित हुए मनुष्य दृढ़व्रती होकर मेरा भजन करते हैं।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2150"
+      },
+      "english": {
+        "text": "But those men of virtuous deeds, whose sins have come to an end and who are freed from the delusion of the pairs of opposites, worship Me steadfastly, with their vows.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2154"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "yeṣhām",
+        "transliteration": "yeṣhām",
+        "meaningEnglish": "whose"
+      },
+      {
+        "word": "tu",
+        "transliteration": "tu",
+        "meaningEnglish": "but"
+      },
+      {
+        "word": "anta-gatam",
+        "transliteration": "anta-gatam",
+        "meaningEnglish": "completely destroyed"
+      },
+      {
+        "word": "pāpam",
+        "transliteration": "pāpam",
+        "meaningEnglish": "sins"
+      },
+      {
+        "word": "janānām",
+        "transliteration": "janānām",
+        "meaningEnglish": "of persons"
+      },
+      {
+        "word": "puṇya",
+        "transliteration": "puṇya",
+        "meaningEnglish": "pious"
+      },
+      {
+        "word": "karmaṇām",
+        "transliteration": "karmaṇām",
+        "meaningEnglish": "activities"
+      },
+      {
+        "word": "te",
+        "transliteration": "te",
+        "meaningEnglish": "they"
+      },
+      {
+        "word": "dvandva",
+        "transliteration": "dvandva",
+        "meaningEnglish": "of dualities"
+      },
+      {
+        "word": "moha",
+        "transliteration": "moha",
+        "meaningEnglish": "illusion"
+      },
+      {
+        "word": "nirmuktāḥ",
+        "transliteration": "nirmuktāḥ",
+        "meaningEnglish": "free from"
+      },
+      {
+        "word": "bhajante",
+        "transliteration": "bhajante",
+        "meaningEnglish": "worship"
+      },
+      {
+        "word": "mām"
+      },
+      {
+        "word": "dṛiḍha-vratāḥ",
+        "transliteration": "dṛiḍha-vratāḥ",
+        "meaningEnglish": "with determination"
+      }
+    ],
+    "wordMeaningsRaw": "yeṣhām—whose; tu—but; anta-gatam—completely destroyed; pāpam—sins; janānām—of persons; puṇya—pious; karmaṇām—activities; te—they; dvandva—of dualities; moha—illusion; nirmuktāḥ—free from; bhajante—worship;mām; dṛiḍha-vratāḥ—with determination",
+    "audioId": "7-28",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/28.mp3"
+  },
+  {
+    "id": "7.29",
+    "chapter": 7,
+    "verse": 29,
+    "sanskrit": "जरामरणमोक्षाय मामाश्रित्य यतन्ति ये।\nते ब्रह्म तद्विदुः कृत्स्नमध्यात्मं कर्म चाखिलम्।।7.29।।",
+    "transliteration": "jarā-maraṇa-mokṣhāya mām āśhritya yatanti ye\nte brahma tadviduḥ kṛitsnam adhyātmaṁ karma chākhilam",
+    "translations": {
+      "hindi": {
+        "text": "।।7.29।।  जरा (वृद्धावस्था) और मरण (मृत्यु) से मोक्ष पानेके लिये जो  मेरा आश्रय लेकर प्रयत्न करते हैं, वे उस ब्रह्मको, सम्पूर्ण अध्यात्मको और सम्पूर्ण कर्मको भी जान जाते हैं।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2157"
+      },
+      "english": {
+        "text": "Those who strive for liberation from old age and death, taking refuge in Me, realize in full that Brahman, the whole knowledge of the Self, and all action.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2161"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "jarā",
+        "transliteration": "jarā",
+        "meaningEnglish": "from old age"
+      },
+      {
+        "word": "maraṇa",
+        "transliteration": "maraṇa",
+        "meaningEnglish": "and death"
+      },
+      {
+        "word": "mokṣhāya",
+        "transliteration": "mokṣhāya",
+        "meaningEnglish": "for liberation"
+      },
+      {
+        "word": "mām",
+        "transliteration": "mām",
+        "meaningEnglish": "me"
+      },
+      {
+        "word": "āśhritya",
+        "transliteration": "āśhritya",
+        "meaningEnglish": "take shelter in"
+      },
+      {
+        "word": "yatanti",
+        "transliteration": "yatanti",
+        "meaningEnglish": "strive"
+      },
+      {
+        "word": "ye",
+        "transliteration": "ye",
+        "meaningEnglish": "who"
+      },
+      {
+        "word": "te",
+        "transliteration": "te",
+        "meaningEnglish": "they"
+      },
+      {
+        "word": "brahma",
+        "transliteration": "brahma",
+        "meaningEnglish": "Brahman"
+      },
+      {
+        "word": "tat",
+        "transliteration": "tat",
+        "meaningEnglish": "that"
+      },
+      {
+        "word": "viduḥ",
+        "transliteration": "viduḥ",
+        "meaningEnglish": "know"
+      },
+      {
+        "word": "kṛitsnam",
+        "transliteration": "kṛitsnam",
+        "meaningEnglish": "everything"
+      },
+      {
+        "word": "adhyātmam",
+        "transliteration": "adhyātmam",
+        "meaningEnglish": "the individual self"
+      },
+      {
+        "word": "karma",
+        "transliteration": "karma",
+        "meaningEnglish": "karmic action"
+      },
+      {
+        "word": "cha",
+        "transliteration": "cha",
+        "meaningEnglish": "and"
+      },
+      {
+        "word": "akhilam",
+        "transliteration": "akhilam",
+        "meaningEnglish": "entire"
+      }
+    ],
+    "wordMeaningsRaw": "jarā—from old age; maraṇa—and death; mokṣhāya—for liberation; mām—me; āśhritya—take shelter in; yatanti—strive; ye—who; te—they; brahma—Brahman; tat—that; viduḥ—know; kṛitsnam—everything; adhyātmam—the individual self; karma—karmic action; cha—and; akhilam—entire",
+    "audioId": "7-29",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/29.mp3"
+  },
+  {
+    "id": "7.30",
+    "chapter": 7,
+    "verse": 30,
+    "sanskrit": "साधिभूताधिदैवं मां साधियज्ञं च ये विदुः।\nप्रयाणकालेऽपि च मां ते विदुर्युक्तचेतसः।।7.30।।",
+    "transliteration": "sādhibhūtādhidaivaṁ māṁ sādhiyajñaṁ cha ye viduḥ\nprayāṇa-kāle ’pi cha māṁ te vidur yukta-chetasaḥ",
+    "translations": {
+      "hindi": {
+        "text": "।।7.30।। जो मनुष्य अधिभूत, अधिदैव और अधियज्ञके सहित मुझे जानते हैं, वे युक्तचेता मनुष्य अन्तकालमें भी मुझे ही जानते हैं अर्थात् प्राप्त होते हैं।",
+        "language": "hi",
+        "author": "Swami Ramsukhdas",
+        "sourceId": "2164"
+      },
+      "english": {
+        "text": "Those who know Me with the Adhibhuta (pertaining to the elements), Adhidaiva (pertaining to the gods), and the Adhiyajna (pertaining to the sacrifice) know Me even at the time of death, remaining steadfast in mind.",
+        "language": "en",
+        "author": "Swami Sivananda",
+        "sourceId": "2168"
+      }
+    },
+    "wordMeanings": [
+      {
+        "word": "sa-adhibhūta",
+        "transliteration": "sa-adhibhūta",
+        "meaningEnglish": "governing principle of the field of matter"
+      },
+      {
+        "word": "adhidaivam",
+        "transliteration": "adhidaivam",
+        "meaningEnglish": "governing principle of the celestial gods"
+      },
+      {
+        "word": "mām",
+        "transliteration": "mām",
+        "meaningEnglish": "me"
+      },
+      {
+        "word": "sa-adhiyajñam",
+        "transliteration": "sa-adhiyajñam",
+        "meaningEnglish": "governing principle of the Lord all sacrificial performances"
+      },
+      {
+        "word": "cha",
+        "transliteration": "cha",
+        "meaningEnglish": "and"
+      },
+      {
+        "word": "ye",
+        "transliteration": "ye",
+        "meaningEnglish": "who"
+      },
+      {
+        "word": "viduḥ",
+        "transliteration": "viduḥ",
+        "meaningEnglish": "know"
+      },
+      {
+        "word": "prayāṇa",
+        "transliteration": "prayāṇa",
+        "meaningEnglish": "of death"
+      },
+      {
+        "word": "kāle",
+        "transliteration": "kāle",
+        "meaningEnglish": "at the time"
+      },
+      {
+        "word": "api",
+        "transliteration": "api",
+        "meaningEnglish": "even"
+      },
+      {
+        "word": "cha",
+        "transliteration": "cha",
+        "meaningEnglish": "and"
+      },
+      {
+        "word": "mām",
+        "transliteration": "mām",
+        "meaningEnglish": "me"
+      },
+      {
+        "word": "te",
+        "transliteration": "te",
+        "meaningEnglish": "they"
+      },
+      {
+        "word": "viduḥ",
+        "transliteration": "viduḥ",
+        "meaningEnglish": "know"
+      },
+      {
+        "word": "yukta-chetasaḥ",
+        "transliteration": "yukta-chetasaḥ",
+        "meaningEnglish": "in full consciousness of me"
+      }
+    ],
+    "wordMeaningsRaw": "sa-adhibhūta—governing principle of the field of matter; adhidaivam—governing principle of the celestial gods; mām—me; sa-adhiyajñam—governing principle of the Lord all sacrificial performances; cha—and; ye—who; viduḥ—know; prayāṇa—of death; kāle—at the time; api—even; cha—and; mām—me; te—they; viduḥ—know; yukta-chetasaḥ—in full consciousness of me",
+    "audioId": "7-30",
+    "audioSrc": "https://raw.githubusercontent.com/gita/gita/main/data/verse_recitation/7/30.mp3"
+  }
+]
