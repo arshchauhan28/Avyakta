@@ -6,7 +6,10 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   async rewrites() {
-    const backendUrl = process.env.BACKEND_INTERNAL_URL || "http://127.0.0.1:8000";
+    const backendUrl = (
+      process.env.BACKEND_URL || "http://127.0.0.1:8000"
+    ).replace(/\/$/, "");
+
     return [
       {
         source: "/api/v1/:path*",
